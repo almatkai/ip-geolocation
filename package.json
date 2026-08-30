@@ -1,0 +1,201 @@
+{
+  "$schema": "https://www.raycast.com/schemas/extension.json",
+  "name": "ip-geolocation",
+  "title": "IP Geolocation",
+  "description": "Show local and public IPv4/IPv6 address.\nQuery geolocation for any IP address or domain.",
+  "icon": "extension-icon.png",
+  "author": "almatkai",
+  "contributors": [
+    "foof"
+  ],
+  "categories": [
+    "Developer Tools",
+    "Web"
+  ],
+  "keywords": [
+    "myip",
+    "ip",
+    "my ip"
+  ],
+  "license": "MIT",
+  "platforms": [
+    "macOS",
+    "Windows"
+  ],
+  "commands": [
+    {
+      "name": "query-ip-geolocation",
+      "title": "Query IP Geolocation",
+      "icon": "query-ip-geolocation.png",
+      "description": "Query geolocation for any IP address or domain.",
+      "mode": "view",
+      "arguments": [
+        {
+          "name": "ipAddress",
+          "placeholder": "IP Address or Domain",
+          "type": "text",
+          "required": false
+        }
+      ],
+      "platforms": [
+        "macOS",
+        "Windows"
+      ]
+    },
+    {
+      "name": "my-ip-geolocation",
+      "title": "My IP Geolocation",
+      "icon": "my-ip-geolocation.png",
+      "description": "Show geolocation for local and public IPv4/IPv6 address.",
+      "mode": "view",
+      "preferences": [
+        {
+          "name": "showIPv6",
+          "type": "checkbox",
+          "required": false,
+          "label": "Show IPv6 Address",
+          "description": "Query and display IPv6 address. Can cause information loading speed to drop.",
+          "default": false
+        }
+      ],
+      "platforms": [
+        "macOS",
+        "Windows"
+      ]
+    },
+    {
+      "name": "copy-ip",
+      "title": "Copy IP",
+      "icon": "copy-ip.png",
+      "description": "Copy local/public IPv4/IPv6 address.",
+      "mode": "no-view",
+      "interval": "1h",
+      "arguments": [
+        {
+          "name": "ipType",
+          "type": "dropdown",
+          "required": false,
+          "placeholder": "Local",
+          "data": [
+            {
+              "title": "Public",
+              "value": "Public"
+            }
+          ]
+        },
+        {
+          "name": "ipVersion",
+          "type": "dropdown",
+          "required": false,
+          "placeholder": "IPv4",
+          "data": [
+            {
+              "title": "IPv6",
+              "value": "IPv6"
+            }
+          ]
+        }
+      ],
+      "platforms": [
+        "macOS",
+        "Windows"
+      ]
+    }
+  ],
+  "preferences": [
+    {
+      "name": "language",
+      "title": "Language",
+      "description": "Language of location information display.",
+      "type": "dropdown",
+      "data": [
+        {
+          "title": "English",
+          "value": "en"
+        },
+        {
+          "title": "Deutsch (German)",
+          "value": "de"
+        },
+        {
+          "title": "Español (Spanish)",
+          "value": "es"
+        },
+        {
+          "title": "Português - Brasil (Portuguese)",
+          "value": "pt-BR"
+        },
+        {
+          "title": "Français (French)",
+          "value": "fr"
+        },
+        {
+          "title": "日本語 (Japanese)",
+          "value": "ja"
+        },
+        {
+          "title": "中国 (Chinese)",
+          "value": "zh-CN"
+        },
+        {
+          "title": "Русский (Russian)",
+          "value": "ru"
+        }
+      ],
+      "required": false,
+      "default": "en"
+    },
+    {
+      "name": "coordinatesFormat",
+      "title": "Coordinates Format",
+      "description": "Coordinate format of location information display.",
+      "type": "dropdown",
+      "data": [
+        {
+          "title": "Latitude, Longitude",
+          "value": "latLon"
+        },
+        {
+          "title": "Longitude, Latitude",
+          "value": "lonLat"
+        }
+      ],
+      "required": false,
+      "default": "latLon"
+    }
+  ],
+  "dependencies": {
+    "@raycast/api": "^1.104.1",
+    "axios": "^1.8.4",
+    "public-ip": "^7.0.1",
+    "@raycast/utils": "^2.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "tsx": "^4.22.4",
+    "typescript": "^5.9.3"
+  },
+  "scripts": {
+    "build": "ray build -e dist",
+    "typecheck": "tsc --noEmit",
+    "test": "node --import tsx --test test/*.test.ts"
+  },
+  "id": "com.tezbar.ip-geolocation",
+  "version": "0.1.0",
+  "tezbar": {
+    "schemaVersion": 1,
+    "platforms": [
+      "macos",
+      "windows"
+    ],
+    "linuxStatus": "coming-soon",
+    "repository": "https://github.com/almatkai/ip-geolocation",
+    "upstream": {
+      "repository": "https://github.com/raycast/extensions",
+      "path": "extensions/ip-geolocation",
+      "commit": "6734d85992290066fd31a7f5bee3cca3d3545a1a"
+    }
+  }
+}
