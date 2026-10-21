@@ -3,7 +3,7 @@
   "name": "ip-geolocation",
   "title": "IP Geolocation",
   "description": "Show local and public IPv4/IPv6 address.\nQuery geolocation for any IP address or domain.",
-  "icon": "extension-icon.png",
+  "icon": "assets/extension-icon.png",
   "author": "almatkai",
   "contributors": [
     "foof"
@@ -26,7 +26,7 @@
     {
       "name": "query-ip-geolocation",
       "title": "Query IP Geolocation",
-      "icon": "query-ip-geolocation.png",
+      "icon": "assets/query-ip-geolocation.png",
       "description": "Query geolocation for any IP address or domain.",
       "mode": "view",
       "arguments": [
@@ -45,7 +45,7 @@
     {
       "name": "my-ip-geolocation",
       "title": "My IP Geolocation",
-      "icon": "my-ip-geolocation.png",
+      "icon": "assets/my-ip-geolocation.png",
       "description": "Show geolocation for local and public IPv4/IPv6 address.",
       "mode": "view",
       "preferences": [
@@ -66,7 +66,7 @@
     {
       "name": "copy-ip",
       "title": "Copy IP",
-      "icon": "copy-ip.png",
+      "icon": "assets/copy-ip.png",
       "description": "Copy local/public IPv4/IPv6 address.",
       "mode": "no-view",
       "interval": "1h",
