@@ -1,0 +1,60 @@
+{
+  "commit": "6734d85992290066fd31a7f5bee3cca3d3545a1a",
+  "files": [
+    {
+      "path": "extensions/ip-geolocation/package.json",
+      "sha256": "df955f2fd4659f93a583902b242037cbcb8a914fb753869815d80338b162742d",
+      "ownBytesIdentical": false
+    },
+    {
+      "path": "extensions/ip-geolocation/README.md",
+      "sha256": "9fea5e950e8f2eaaf3f1c1ae8bdcdb9003c97210aa37eeb14e42bfc69aec4d70",
+      "ownBytesIdentical": false
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "7f727f8b20cdd0e65f84e70b9cac2fce337dcecee4dc88955eb012ea27f02755",
+      "ownBytesIdentical": false
+    },
+    {
+      "path": "extensions/ip-geolocation/assets/my-ip-geolocation@dark.png",
+      "sha256": "dfbf1d3baccbe47fc443ee51e576467fc6dd515d1df60cd1ab6e6eeea2718072",
+      "ownBytesIdentical": true
+    },
+    {
+      "path": "extensions/ip-geolocation/assets/my-ip-geolocation.png",
+      "sha256": "78e5dcf84a8115c81a21d64c581b9e181955c4986c453e2188b54ca568b5b75d",
+      "ownBytesIdentical": true
+    },
+    {
+      "path": "extensions/ip-geolocation/assets/copy-ip.png",
+      "sha256": "cf306eca30ddec156b980c03d353761f0af76379838aafa933cfdfb905ca1386",
+      "ownBytesIdentical": true
+    },
+    {
+      "path": "extensions/ip-geolocation/assets/extension-icon@dark.png",
+      "sha256": "28bcfe8ac25e90f35c4a67441bc250491c4ce872b82e0432c5cfdadf3886d977",
+      "ownBytesIdentical": true
+    },
+    {
+      "path": "extensions/ip-geolocation/assets/copy-ip@dark.png",
+      "sha256": "645eb6125226cb5da605544c573008bd7e5bdf35f0096180a131552eb70d47aa",
+      "ownBytesIdentical": true
+    },
+    {
+      "path": "extensions/ip-geolocation/assets/query-ip-geolocation@dark.png",
+      "sha256": "50669c527fb84d7432a39ee4e3df653365f26050cfd97906a8000f8d36f45bbc",
+      "ownBytesIdentical": true
+    },
+    {
+      "path": "extensions/ip-geolocation/assets/query-ip-geolocation.png",
+      "sha256": "8d009c619dc55ae00c729827381b51c36b2ef84325af3fab38b111a622e05ed8",
+      "ownBytesIdentical": true
+    },
+    {
+      "path": "extensions/ip-geolocation/assets/extension-icon.png",
+      "sha256": "b34d42764d02ab2e084d8d097407eeb00993d348d6d8993f652a15abfb471e61",
+      "ownBytesIdentical": true
+    }
+  ]
+}

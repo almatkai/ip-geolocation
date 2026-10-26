@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 3,
+  "id": "com.tezbar.native.ip-geolocation",
+  "slug": "ip-geolocation",
+  "name": "IP Geolocation",
+  "version": "0.1.0",
+  "description": "Show local and public IPv4/IPv6 address.\nQuery geolocation for any IP address or domain.",
+  "icon": "resources/extension-icon.png",
+  "runtime": "rust",
+  "execution": "process",
+  "protocolVersion": 1,
+  "repository": "https://github.com/almatkai/ip-geolocation",
+  "platforms": [
+    "macOS",
+    "Windows"
+  ],
+  "commands": [
+    {
+      "name": "query-ip-geolocation",
+      "title": "Query IP Geolocation",
+      "icon": "resources/query-ip-geolocation.png",
+      "description": "Query geolocation for any IP address or domain.",
+      "mode": "view",
+      "arguments": [
+        {
+          "name": "ipAddress",
+          "placeholder": "IP Address or Domain",
+          "type": "text",
+          "required": false
+        }
+      ],
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "runtime": "rust",
+      "refreshMs": null,
+      "concurrency": "serialize",
+      "timeoutMs": 30000
+    },
+    {
+      "name": "my-ip-geolocation",
+      "title": "My IP Geolocation",
+      "icon": "resources/my-ip-geolocation.png",
+      "description": "Show geolocation for local and public IPv4/IPv6 address.",
+      "mode": "view",
+      "preferences": [
+        {
+          "name": "showIPv6",
+          "type": "checkbox",
+          "required": false,
+          "label": "Show IPv6 Address",
+          "description": "Query and display IPv6 address. Can cause information loading speed to drop.",
+          "default": false
+        }
+      ],
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "runtime": "rust",
+      "refreshMs": null,
+      "concurrency": "serialize",
+      "timeoutMs": 30000
+    },
+    {
+      "name": "copy-ip",
+      "title": "Copy IP",
+      "icon": "resources/copy-ip.png",
+      "description": "Copy local/public IPv4/IPv6 address.",
+      "mode": "no-view",
+      "arguments": [
+        {
+          "name": "ipType",
+          "type": "dropdown",
+          "required": false,
+          "placeholder": "Local",
+          "data": [
+            {
+              "title": "Public",
+              "value": "Public"
+            }
+          ]
+        },
+        {
+          "name": "ipVersion",
+          "type": "dropdown",
+          "required": false,
+          "placeholder": "IPv4",
+          "data": [
+            {
+              "title": "IPv6",
+              "value": "IPv6"
+            }
+          ]
+        }
+      ],
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "runtime": "rust",
+      "refreshMs": null,
+      "concurrency": "serialize",
+      "timeoutMs": 30000
+    }
+  ],
+  "preferences": [
+    {
+      "name": "language",
+      "title": "Language",
+      "description": "Language of location information display.",
+      "type": "dropdown",
+      "data": [
+        {
+          "title": "English",
+          "value": "en"
+        },
+        {
+          "title": "Deutsch (German)",
+          "value": "de"
+        },
+        {
+          "title": "Espa\u00f1ol (Spanish)",
+          "value": "es"
+        },
+        {
+          "title": "Portugu\u00eas - Brasil (Portuguese)",
+          "value": "pt-BR"
+        },
+        {
+          "title": "Fran\u00e7ais (French)",
+          "value": "fr"
+        },
+        {
+          "title": "\u65e5\u672c\u8a9e (Japanese)",
+          "value": "ja"
+        },
+        {
+          "title": "\u4e2d\u56fd (Chinese)",
+          "value": "zh-CN"
+        },
+        {
+          "title": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439 (Russian)",
+          "value": "ru"
+        }
+      ],
+      "required": false,
+      "default": "en"
+    },
+    {
+      "name": "coordinatesFormat",
+      "title": "Coordinates Format",
+      "description": "Coordinate format of location information display.",
+      "type": "dropdown",
+      "data": [
+        {
+          "title": "Latitude, Longitude",
+          "value": "latLon"
+        },
+        {
+          "title": "Longitude, Latitude",
+          "value": "lonLat"
+        }
+      ],
+      "required": false,
+      "default": "latLon"
+    }
+  ],
+  "replaces": [
+    "com.tezbar.ip-geolocation",
+    "raycast.ip-geolocation"
+  ],
+  "capabilities": [
+    "clipboard.write",
+    "window.visibility",
+    "settings.open"
+  ],
+  "artifacts": {},
+  "verification": [
+    {
+      "platform": "macOS",
+      "state": "not-run",
+      "note": "Native GUI, OS interface enumeration, real clipboard and public TLS success not run. Synthetic adapter/process QA only. Geolocation blocked: source free provider has no HTTPS."
+    },
+    {
+      "platform": "Windows",
+      "state": "not-run",
+      "note": "Native GUI, OS interface enumeration, real clipboard and public TLS success not run. Synthetic adapter/process QA only. Geolocation blocked: source free provider has no HTTPS."
+    }
+  ]
+}

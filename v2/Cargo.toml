@@ -1,0 +1,38 @@
+[package]
+name = "tezbar-ip-geolocation"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.85"
+license = "MIT"
+publish = false
+
+[dependencies]
+tezbar-extension-sdk = { git = "https://github.com/almatkai/tezbar-extension-sdk-rust.git", rev = "e955911f0bf5b558f9d3eb5183df0adc95c22af2", version = "=0.1.1" }
+serde = { version = "1", features = ["derive"] }
+serde_json = { version = "1", features = ["preserve_order"] }
+tokio = { version = "1", features = ["rt-multi-thread", "macros", "time", "net", "io-util", "sync"] }
+reqwest = { version = "0.12", default-features = false, features = ["rustls-tls", "stream"] }
+ryu-js = "1"
+httpdate = "=1.0.3"
+uuid = { version = "=1.23.3", features = ["v4"] }
+sha2 = "0.10"
+
+tempfile = "3"
+
+[[bin]]
+name = "ip-geolocation"
+path = "src/main.rs"
+
+[[example]]
+name = "fixture"
+path = "qa/fixture.rs"
+
+[target.'cfg(unix)'.dependencies]
+libc = "0.2"
+
+[target.'cfg(windows)'.dependencies]
+windows-sys = { version = "0.59", features = ["Win32_NetworkManagement_IpHelper", "Win32_NetworkManagement_Ndis", "Win32_Networking_WinSock", "Win32_Foundation"] }
+
+[dev-dependencies]
+tokio-rustls = { version = "0.26", default-features = false, features = ["ring", "tls12"] }
+rustls = { version = "0.23", default-features = false, features = ["ring", "std", "tls12"] }

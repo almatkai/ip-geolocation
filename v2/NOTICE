@@ -1,0 +1,15 @@
+IP Geolocation standalone Rust V2 development port
+Source: almatkai/ip-geolocation, commit 48b1cd483b6e8fbf2d8ae8394ffdb11b4e8f659c.
+Own LICENSE is copied byte-for-byte, including its literal backslash-n encoding.
+Upstream source/assets: raycast/extensions, commit 6734d85992290066fd31a7f5bee3cca3d3545a1a;
+original MIT text is resources/UPSTREAM-LICENSE in the development archive.
+Independent Tezbar extension SDK 0.1.1, Apache-2.0, revision
+ e955911f0bf5b558f9d3eb5183df0adc95c22af2. Original texts:
+ resources/SDK-LICENSE and resources/SDK-NOTICE.
+Native interface behavior was compared with Node v24.0.0/libuv sources;
+resources/LIBUV-LICENSE contains the authentic license.
+Dependency notices are copied from locked source distributions under
+resources/notices/cargo/. docs/dependency-notices.json records source hashes,
+license declarations and missing license texts explicitly. No new grant is inferred.
+QA-only JS/Python dependency notices live in the source docs/notices tree.
+This artifact is for feature-branch review. It is not installed or released.

@@ -1,0 +1,127 @@
+--- a/src-tauri/src/native_core/extensions/registry.rs
++++ b/src-tauri/src/native_core/extensions/registry.rs
+@@ -14,6 +14,7 @@
+     id: String,
+     slug: String,
+     path: PathBuf,
++    resource_path: PathBuf,
+     manifest: Value,
+     data_dir: PathBuf,
+ }
+@@ -73,9 +74,10 @@
+             };
+             let Ok(slug) = slug(name) else { continue };
+             let native = name.starts_with("com.tezbar.native.");
++            let mut resource_path = path.clone();
+             let mut manifest = if native {
+                 match super::process_install::resolve(ctx, name) {
+-                    Ok(package) => package.manifest,
++                    Ok(package) => { resource_path = package.dir; package.manifest },
+                     Err(error) => {
+                         // A damaged canonical directory is NEVER a Raycast package.
+                         let mut value = read_json(&path.join("package.json"))
+@@ -108,6 +110,7 @@
+                 id,
+                 slug,
+                 path,
++                resource_path,
+                 manifest,
+                 data_dir: ctx.paths.data_dir.clone(),
+             });
+@@ -245,8 +248,8 @@
+         return None;
+     }
+     let mut candidates = vec![
+-        extension.path.join(relative),
+-        extension.path.join("assets").join(relative),
++        extension.resource_path.join(relative),
++        extension.resource_path.join("assets").join(relative),
+     ];
+     if extension.id.starts_with("com.tezbar.native.") {
+         if let Some(packages) = extension.path.parent() {
+@@ -309,8 +312,8 @@
+         return None;
+     }
+     let mut candidates = vec![
+-        extension.path.join(relative),
+-        extension.path.join("assets").join(relative),
++        extension.resource_path.join(relative),
++        extension.resource_path.join("assets").join(relative),
+     ];
+     if extension.id.starts_with("com.tezbar.native.") {
+         if let Some(packages) = extension.path.parent() {
+@@ -574,6 +577,7 @@
+     let extension = Installed {
+         id: id.into(),
+         slug: slug(id)?,
++        resource_path: path.clone(),
+         path,
+         manifest: Value::Null,
+         data_dir: ctx.paths.data_dir.clone(),
+@@ -1651,3 +1655,28 @@
+     }
+     packages
+ }
++
++// Input manifests here have ALREADY passed process_install::resolve verification.
++pub(super) fn verified_alias_from(requested: &str, command: &str, target: &str, manifests: &[Value]) -> Result<Option<String>, String> {
++    let owners: Vec<_> = manifests.iter().filter(|m| m["replaces"].as_array().is_some_and(|ids| ids.iter().any(|id| id.as_str() == Some(requested)))).collect();
++    if owners.len() > 1 { return Err("Ambiguous verified replacement owners".into()); }
++    let Some(owner) = owners.first() else { return Ok(None) };
++    let root_compatible = owner["platforms"].as_array().map_or(target == "macOS", |platforms| platforms.iter().any(|p| p == target));
++    let compatible = root_compatible && owner["commands"].as_array().is_some_and(|commands| commands.iter().any(|c| c["name"] == command && c["runtime"] == "rust" && c["platforms"].as_array().is_some_and(|p| p.iter().any(|p| p == target))));
++    Ok(if compatible { owner["id"].as_str().map(str::to_owned) } else { None })
++}
++pub(super) fn verified_alias(ctx: &CoreContext, requested: &str, command: &str) -> Result<Option<String>, String> {
++    let mut manifests = Vec::new(); let mut seen = HashSet::new(); let mut count = 0;
++    for root in managed_roots(ctx) {
++        let entries = match std::fs::read_dir(root) { Ok(e) => e, Err(e) if e.kind() == std::io::ErrorKind::NotFound => continue, Err(_) => return Err("Cannot inspect installed packages".into()) };
++        for entry in entries {
++            count += 1; if count > 4096 { return Err("Installed package scan exceeds capacity".into()); }
++            let entry = entry.map_err(|_| "Cannot inspect installed package")?;
++            let name = entry.file_name(); let Some(id) = name.to_str() else { continue };
++            if !id.starts_with("com.tezbar.native.") || !seen.insert(id.to_string()) { continue; }
++            if let Ok(package) = super::process_install::resolve(ctx, id) { manifests.push(package.manifest); }
++            if manifests.len() > 128 { return Err("Verified package scan exceeds capacity".into()); }
++        }
++    }
++    verified_alias_from(requested, command, platform(), &manifests)
++}
+--- a/src-tauri/src/native_core/extensions/native.rs
++++ b/src-tauri/src/native_core/extensions/native.rs
+@@ -615,12 +615,16 @@
+             self.dispatch(channel, body, id).await.map(Some)
+         } else if channel == "extension:run-command" {
+             let requested = body["extensionId"].as_str().unwrap_or("");
+-            if requested.starts_with("com.tezbar.native.") || v2_runtime::slug(requested).is_some()
+-            {
+-                self.launch(ctx, files, body).await
+-            } else {
+-                return None;
+-            }
++            let canonical = if requested.starts_with("com.tezbar.native.") { Some(requested.to_string()) } else {
++                match registry::verified_alias(ctx, requested, body["commandName"].as_str().unwrap_or("")) {
++                    Ok(id) => id,
++                    Err(message) => return Some(Ok(json!({"ok":false,"message":message}))),
++                }
++            };
++            if let Some(canonical) = canonical {
++                let mut normalized = body.clone(); normalized["extensionId"] = json!(canonical);
++                self.launch(ctx, files, &normalized).await
++            } else { return None; }
+         } else {
+             return None;
+         };
+--- a/src/renderer/ExtensionRuntimeView.tsx
++++ b/src/renderer/ExtensionRuntimeView.tsx
+@@ -661,7 +661,9 @@
+               if (notice) showActionNotice(notice.message, isFormSurface)
+ 
+               if (result.mode === 'no-view') {
+-                setState((prev) => ({ ...prev, message: undefined }))
++                currentSession.current = null
++                await window.tezbar.extensionDisposeSession({ sessionId: state.sessionId })
++                onBack()
+                 return
+               }
+ 
