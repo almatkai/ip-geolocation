@@ -1,0 +1,4992 @@
+[
+  {
+    "kind": "cargo",
+    "name": "atomic-waker",
+    "version": "1.1.2",
+    "declaredLicense": "Apache-2.0 OR MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/atomic-waker-1.1.2/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/atomic-waker-1.1.2/LICENSE-MIT",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+      },
+      {
+        "path": "docs/notices/cargo/atomic-waker-1.1.2/LICENSE-THIRD-PARTY",
+        "sha256": "6226d0632e2e1a80c23597e964da9812ae193c535fe058154afb034e94167aa5"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "base64",
+    "version": "0.22.1",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/base64-0.22.1/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/base64-0.22.1/LICENSE-MIT",
+        "sha256": "0dd882e53de11566d50f8e8e2d5a651bcf3fabee4987d70f306233cf39094ba7"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "base64",
+    "version": "0.23.1",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/base64-0.23.1/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/base64-0.23.1/LICENSE-MIT",
+        "sha256": "ab499c75a0f0da8e0fe83bf9ba3a27e5c39705310f07107c6c66b69958d2401c"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "bitflags",
+    "version": "2.13.2",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/bitflags-2.13.2/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/bitflags-2.13.2/LICENSE-MIT",
+        "sha256": "6485b8ed310d3f0340bf1ad1f47645069ce4069dcc6bb46c7d5c6faf41de1fdb"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "block-buffer",
+    "version": "0.10.4",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/block-buffer-0.10.4/LICENSE-APACHE",
+        "sha256": "a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5"
+      },
+      {
+        "path": "docs/notices/cargo/block-buffer-0.10.4/LICENSE-MIT",
+        "sha256": "d5c22aa3118d240e877ad41c5d9fa232f9c77d757d4aac0c2f943afc0a95e0ef"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "bumpalo",
+    "version": "3.20.3",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/bumpalo-3.20.3/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/bumpalo-3.20.3/LICENSE-MIT",
+        "sha256": "65f94e99ddaf4f5d1782a6dae23f35d4293a9a01444a13135a6887017d353cee"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "bytes",
+    "version": "1.12.1",
+    "declaredLicense": "MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/bytes-1.12.1/LICENSE",
+        "sha256": "45f522cacecb1023856e46df79ca625dfc550c94910078bd8aec6e02880b3d42"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "cc",
+    "version": "1.10.0",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/cc-1.10.0/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/cc-1.10.0/LICENSE-MIT",
+        "sha256": "378f5840b258e2779c39418f3f2d7b2ba96f1c7917dd6be0713f88305dbda397"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "cfg-if",
+    "version": "1.0.5",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/cfg-if-1.0.5/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/cfg-if-1.0.5/LICENSE-MIT",
+        "sha256": "378f5840b258e2779c39418f3f2d7b2ba96f1c7917dd6be0713f88305dbda397"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "cfg_aliases",
+    "version": "0.2.2",
+    "declaredLicense": "MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/cfg_aliases-0.2.2/LICENSE",
+        "sha256": "31b94860253d8ec7b4529f51901044d3b459d6292d996504a36b1bae3a36a812"
+      },
+      {
+        "path": "docs/notices/cargo/cfg_aliases-0.2.2/NOTICES.md",
+        "sha256": "1e2b7ade3fb228130408b9990cae6a7618eb314c75aa0b164bfe485d9d9756ee"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "chacha20",
+    "version": "0.10.2",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/chacha20-0.10.2/LICENSE-APACHE",
+        "sha256": "a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5"
+      },
+      {
+        "path": "docs/notices/cargo/chacha20-0.10.2/LICENSE-MIT",
+        "sha256": "b8c6939380a400f53e11923d50fcc4dd2fa1ba8339fd9d04cda38a0251b6c9b0"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "cpufeatures",
+    "version": "0.2.17",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/cpufeatures-0.2.17/LICENSE-APACHE",
+        "sha256": "a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5"
+      },
+      {
+        "path": "docs/notices/cargo/cpufeatures-0.2.17/LICENSE-MIT",
+        "sha256": "ae9baa7beea910273c2f384c2a6b721fb7bd02bda3436074a1072e4ee689f985"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "cpufeatures",
+    "version": "0.3.1",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/cpufeatures-0.3.1/LICENSE-APACHE",
+        "sha256": "a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5"
+      },
+      {
+        "path": "docs/notices/cargo/cpufeatures-0.3.1/LICENSE-MIT",
+        "sha256": "73b9dc2e79c7308998dd30296e073aefaefb944a68fb89aa412c23c0edcabcaa"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "crypto-common",
+    "version": "0.1.7",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/crypto-common-0.1.7/LICENSE-APACHE",
+        "sha256": "a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5"
+      },
+      {
+        "path": "docs/notices/cargo/crypto-common-0.1.7/LICENSE-MIT",
+        "sha256": "3521672491a3479422d5fe1aca6645dd2984090f85da6e5205abfb18fb7a6897"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "digest",
+    "version": "0.10.7",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/digest-0.10.7/LICENSE-APACHE",
+        "sha256": "a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5"
+      },
+      {
+        "path": "docs/notices/cargo/digest-0.10.7/LICENSE-MIT",
+        "sha256": "9e0dfd2dd4173a530e238cb6adb37aa78c34c6bc7444e0e10c1ab5d8881f63ba"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "displaydoc",
+    "version": "0.2.7",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/displaydoc-0.2.7/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/displaydoc-0.2.7/LICENSE-MIT",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "equivalent",
+    "version": "1.0.3",
+    "declaredLicense": "Apache-2.0 OR MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/equivalent-1.0.3/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/equivalent-1.0.3/LICENSE-MIT",
+        "sha256": "7365cc8878a1d7ce155a58c4ca09c3d7a6be413efa5334a80ea842912b669349"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "errno",
+    "version": "0.3.14",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/errno-0.3.14/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/errno-0.3.14/LICENSE-MIT",
+        "sha256": "8764a597675778ddfd4e25f81b08a05dbcf089ac05662df7613fe67f150e3aa2"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "fastrand",
+    "version": "2.5.0",
+    "declaredLicense": "Apache-2.0 OR MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/fastrand-2.5.0/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/fastrand-2.5.0/LICENSE-MIT",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "find-msvc-tools",
+    "version": "0.1.15",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/find-msvc-tools-0.1.15/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/find-msvc-tools-0.1.15/LICENSE-MIT",
+        "sha256": "378f5840b258e2779c39418f3f2d7b2ba96f1c7917dd6be0713f88305dbda397"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "foldhash",
+    "version": "0.2.0",
+    "declaredLicense": "Zlib",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/foldhash-0.2.0/LICENSE",
+        "sha256": "b1181a40b2a7b25cf66fd01481713bc1005df082c53ef73e851e55071b102744"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "form_urlencoded",
+    "version": "1.2.2",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/form_urlencoded-1.2.2/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/form_urlencoded-1.2.2/LICENSE-MIT",
+        "sha256": "20c7855c364d57ea4c97889a5e8d98470a9952dade37bd9248b9a54431670e5e"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "futures-channel",
+    "version": "0.3.34",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/futures-channel-0.3.34/LICENSE-APACHE",
+        "sha256": "275c491d6d1160553c32fd6127061d7f9606c3ea25abfad6ca3f6ed088785427"
+      },
+      {
+        "path": "docs/notices/cargo/futures-channel-0.3.34/LICENSE-MIT",
+        "sha256": "6652c868f35dfe5e8ef636810a4e576b9d663f3a17fb0f5613ad73583e1b88fd"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "futures-core",
+    "version": "0.3.34",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/futures-core-0.3.34/LICENSE-APACHE",
+        "sha256": "275c491d6d1160553c32fd6127061d7f9606c3ea25abfad6ca3f6ed088785427"
+      },
+      {
+        "path": "docs/notices/cargo/futures-core-0.3.34/LICENSE-MIT",
+        "sha256": "6652c868f35dfe5e8ef636810a4e576b9d663f3a17fb0f5613ad73583e1b88fd"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "futures-io",
+    "version": "0.3.34",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/futures-io-0.3.34/LICENSE-APACHE",
+        "sha256": "275c491d6d1160553c32fd6127061d7f9606c3ea25abfad6ca3f6ed088785427"
+      },
+      {
+        "path": "docs/notices/cargo/futures-io-0.3.34/LICENSE-MIT",
+        "sha256": "6652c868f35dfe5e8ef636810a4e576b9d663f3a17fb0f5613ad73583e1b88fd"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "futures-macro",
+    "version": "0.3.34",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/futures-macro-0.3.34/LICENSE-APACHE",
+        "sha256": "275c491d6d1160553c32fd6127061d7f9606c3ea25abfad6ca3f6ed088785427"
+      },
+      {
+        "path": "docs/notices/cargo/futures-macro-0.3.34/LICENSE-MIT",
+        "sha256": "6652c868f35dfe5e8ef636810a4e576b9d663f3a17fb0f5613ad73583e1b88fd"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "futures-sink",
+    "version": "0.3.34",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/futures-sink-0.3.34/LICENSE-APACHE",
+        "sha256": "275c491d6d1160553c32fd6127061d7f9606c3ea25abfad6ca3f6ed088785427"
+      },
+      {
+        "path": "docs/notices/cargo/futures-sink-0.3.34/LICENSE-MIT",
+        "sha256": "6652c868f35dfe5e8ef636810a4e576b9d663f3a17fb0f5613ad73583e1b88fd"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "futures-task",
+    "version": "0.3.34",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/futures-task-0.3.34/LICENSE-APACHE",
+        "sha256": "275c491d6d1160553c32fd6127061d7f9606c3ea25abfad6ca3f6ed088785427"
+      },
+      {
+        "path": "docs/notices/cargo/futures-task-0.3.34/LICENSE-MIT",
+        "sha256": "6652c868f35dfe5e8ef636810a4e576b9d663f3a17fb0f5613ad73583e1b88fd"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "futures-util",
+    "version": "0.3.34",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/futures-util-0.3.34/LICENSE-APACHE",
+        "sha256": "275c491d6d1160553c32fd6127061d7f9606c3ea25abfad6ca3f6ed088785427"
+      },
+      {
+        "path": "docs/notices/cargo/futures-util-0.3.34/LICENSE-MIT",
+        "sha256": "6652c868f35dfe5e8ef636810a4e576b9d663f3a17fb0f5613ad73583e1b88fd"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "generic-array",
+    "version": "0.14.7",
+    "declaredLicense": "MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/generic-array-0.14.7/LICENSE",
+        "sha256": "c09aae9d3c77b531f56351a9947bc7446511d6b025b3255312d3e3442a9a7583"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "getrandom",
+    "version": "0.2.17",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/getrandom-0.2.17/LICENSE-APACHE",
+        "sha256": "aaff376532ea30a0cd5330b9502ad4a4c8bf769c539c87ffe78819d188a18ebf"
+      },
+      {
+        "path": "docs/notices/cargo/getrandom-0.2.17/LICENSE-MIT",
+        "sha256": "42fa16951ce7f24b5a467a40e5b449a1d41e662f97ca779864f053f39e097737"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "getrandom",
+    "version": "0.4.3",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/getrandom-0.4.3/LICENSE-APACHE",
+        "sha256": "aaff376532ea30a0cd5330b9502ad4a4c8bf769c539c87ffe78819d188a18ebf"
+      },
+      {
+        "path": "docs/notices/cargo/getrandom-0.4.3/LICENSE-MIT",
+        "sha256": "523a42c25d245dde9c015f882cec7f4555aad883382a6cf19b4b7d9b2cd5419b"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "hashbrown",
+    "version": "0.17.1",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/hashbrown-0.17.1/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/hashbrown-0.17.1/LICENSE-MIT",
+        "sha256": "ff8f68cb076caf8cefe7a6430d4ac086ce6af2ca8ce2c4e5a2004d4552ef52a2"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "http",
+    "version": "1.5.0",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/http-1.5.0/LICENSE-APACHE",
+        "sha256": "8bb1b50b0e5c9399ae33bd35fab2769010fa6c14e8860c729a52295d84896b7a"
+      },
+      {
+        "path": "docs/notices/cargo/http-1.5.0/LICENSE-MIT",
+        "sha256": "dc91f8200e4b2a1f9261035d4c18c33c246911a6c0f7b543d75347e61b249cff"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "http-body",
+    "version": "1.1.0",
+    "declaredLicense": "MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/http-body-1.1.0/LICENSE",
+        "sha256": "248378d0a3383c173fb925f17141b88e71580b3ba17ddc6ac3d2a344683232ab"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "http-body-util",
+    "version": "0.1.5",
+    "declaredLicense": "MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/http-body-util-0.1.5/LICENSE",
+        "sha256": "248378d0a3383c173fb925f17141b88e71580b3ba17ddc6ac3d2a344683232ab"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "httparse",
+    "version": "1.10.1",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/httparse-1.10.1/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/httparse-1.10.1/LICENSE-MIT",
+        "sha256": "391a5396cec6230bfabd4ef4eb2350eb895bc5efce377a2218f5702ed020d3e3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "httpdate",
+    "version": "1.0.3",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/httpdate-1.0.3/LICENSE-APACHE",
+        "sha256": "4d10fe5f3aa176b05b229a248866bad70b834c173f1252a814ff4748d8a13837"
+      },
+      {
+        "path": "docs/notices/cargo/httpdate-1.0.3/LICENSE-MIT",
+        "sha256": "934887691e05d69d7c86ad3f2c360980fa30c15b035e351f3c9865e99da4debc"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "hyper",
+    "version": "1.12.0",
+    "declaredLicense": "MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/hyper-1.12.0/LICENSE",
+        "sha256": "2d01890414494742ba4a509fcec8efa40f6d8be22cbd72be7cff08d6fda4ec89"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "hyper-rustls",
+    "version": "0.27.10",
+    "declaredLicense": "Apache-2.0 OR ISC OR MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/hyper-rustls-0.27.10/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/hyper-rustls-0.27.10/LICENSE-ISC",
+        "sha256": "7cfafc877eccc46c0e346ccbaa5c51bb6b894d2b818e617d970211e232785ad4"
+      },
+      {
+        "path": "docs/notices/cargo/hyper-rustls-0.27.10/LICENSE-MIT",
+        "sha256": "709e3175b4212f7b13aa93971c9f62ff8c69ec45ad8c6532a7e0c41d7a7d6f8c"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "hyper-util",
+    "version": "0.1.21",
+    "declaredLicense": "MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/hyper-util-0.1.21/LICENSE",
+        "sha256": "9e0a97848ea543aef745c98e84fde696a9a3e0735538f6daefdd3cb1942effc1"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "icu_collections",
+    "version": "2.1.1",
+    "declaredLicense": "Unicode-3.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/icu_collections-2.1.1/LICENSE",
+        "sha256": "f367c1b8e1aa262435251e442901da4607b4650e0e63a026f5044473ecfb90f2"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "icu_locale_core",
+    "version": "2.1.1",
+    "declaredLicense": "Unicode-3.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/icu_locale_core-2.1.1/LICENSE",
+        "sha256": "f367c1b8e1aa262435251e442901da4607b4650e0e63a026f5044473ecfb90f2"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "icu_normalizer",
+    "version": "2.1.1",
+    "declaredLicense": "Unicode-3.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/icu_normalizer-2.1.1/LICENSE",
+        "sha256": "f367c1b8e1aa262435251e442901da4607b4650e0e63a026f5044473ecfb90f2"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "icu_normalizer_data",
+    "version": "2.1.1",
+    "declaredLicense": "Unicode-3.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/icu_normalizer_data-2.1.1/LICENSE",
+        "sha256": "f367c1b8e1aa262435251e442901da4607b4650e0e63a026f5044473ecfb90f2"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "icu_properties",
+    "version": "2.1.2",
+    "declaredLicense": "Unicode-3.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/icu_properties-2.1.2/LICENSE",
+        "sha256": "f367c1b8e1aa262435251e442901da4607b4650e0e63a026f5044473ecfb90f2"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "icu_properties_data",
+    "version": "2.1.2",
+    "declaredLicense": "Unicode-3.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/icu_properties_data-2.1.2/LICENSE",
+        "sha256": "f367c1b8e1aa262435251e442901da4607b4650e0e63a026f5044473ecfb90f2"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "icu_provider",
+    "version": "2.1.1",
+    "declaredLicense": "Unicode-3.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/icu_provider-2.1.1/LICENSE",
+        "sha256": "f367c1b8e1aa262435251e442901da4607b4650e0e63a026f5044473ecfb90f2"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "idna",
+    "version": "1.1.0",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/idna-1.1.0/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/idna-1.1.0/LICENSE-MIT",
+        "sha256": "b38f11f6096706e6de553dabe2a7ed142d59b6fa8c97e290c67496154745cdd5"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "idna_adapter",
+    "version": "1.2.1",
+    "declaredLicense": "Apache-2.0 OR MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/idna_adapter-1.2.1/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/idna_adapter-1.2.1/LICENSE-MIT",
+        "sha256": "8b43ce8accd61e9d370b5ca9e9c4f953279b5c239926c62315b40e24df51b726"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "indexmap",
+    "version": "2.14.2",
+    "declaredLicense": "Apache-2.0 OR MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/indexmap-2.14.2/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/indexmap-2.14.2/LICENSE-MIT",
+        "sha256": "ecc269ef87fd38a1d98e30bfac9ba964a9dbd9315c3770fed98d4d7cb5882055"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "ipnet",
+    "version": "2.12.2",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/ipnet-2.12.2/LICENSE-APACHE",
+        "sha256": "87d9feb9238c6bd8e0024fc4733b06cff036f89f36d93b7df1c8a0549bbb7a5b"
+      },
+      {
+        "path": "docs/notices/cargo/ipnet-2.12.2/LICENSE-MIT",
+        "sha256": "47dc9ff29128ddfb4d6a0435383c9f89120bc374dbcc1dd00b933a0b28aa7865"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "itoa",
+    "version": "1.0.18",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/itoa-1.0.18/LICENSE-APACHE",
+        "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+      },
+      {
+        "path": "docs/notices/cargo/itoa-1.0.18/LICENSE-MIT",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "js-sys",
+    "version": "0.3.106",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/js-sys-0.3.106/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/js-sys-0.3.106/LICENSE-MIT",
+        "sha256": "378f5840b258e2779c39418f3f2d7b2ba96f1c7917dd6be0713f88305dbda397"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "libc",
+    "version": "0.2.191",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/libc-0.2.191/LICENSE-APACHE",
+        "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+      },
+      {
+        "path": "docs/notices/cargo/libc-0.2.191/LICENSE-MIT",
+        "sha256": "123a331b5dbf04c30097fa43b8f858bc85df671fe776de498d01f3d6b7c1f69e"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "linux-raw-sys",
+    "version": "0.12.1",
+    "declaredLicense": "Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/linux-raw-sys-0.12.1/COPYRIGHT",
+        "sha256": "3290ae0fbc9ddb77d2239121d710f0bb9d31b3b4744e6d97fe01e652b4c1870b"
+      },
+      {
+        "path": "docs/notices/cargo/linux-raw-sys-0.12.1/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/linux-raw-sys-0.12.1/LICENSE-Apache-2.0_WITH_LLVM-exception",
+        "sha256": "268872b9816f90fd8e85db5a28d33f8150ebb8dd016653fb39ef1f94f2686bc5"
+      },
+      {
+        "path": "docs/notices/cargo/linux-raw-sys-0.12.1/LICENSE-MIT",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "litemap",
+    "version": "0.8.3",
+    "declaredLicense": "Unicode-3.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/litemap-0.8.3/LICENSE",
+        "sha256": "f367c1b8e1aa262435251e442901da4607b4650e0e63a026f5044473ecfb90f2"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "log",
+    "version": "0.4.34",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/log-0.4.34/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/log-0.4.34/LICENSE-MIT",
+        "sha256": "6485b8ed310d3f0340bf1ad1f47645069ce4069dcc6bb46c7d5c6faf41de1fdb"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "lru-slab",
+    "version": "0.1.3",
+    "declaredLicense": "MIT OR Apache-2.0 OR Zlib",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/lru-slab-0.1.3/LICENSE-APACHE",
+        "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+      },
+      {
+        "path": "docs/notices/cargo/lru-slab-0.1.3/LICENSE-MIT",
+        "sha256": "1466d9b4f3a59bb8997fc8d5fa977ce3f6a24bb2358793c09bfdf007039f6486"
+      },
+      {
+        "path": "docs/notices/cargo/lru-slab-0.1.3/LICENSE-ZLIB",
+        "sha256": "09785877275ffada6c371b652a30e95c26b435126fc0fc62f1bc2d72171f80a4"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "memchr",
+    "version": "2.8.3",
+    "declaredLicense": "Unlicense OR MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/memchr-2.8.3/COPYING",
+        "sha256": "01c266bced4a434da0051174d6bee16a4c82cf634e2679b6155d40d75012390f"
+      },
+      {
+        "path": "docs/notices/cargo/memchr-2.8.3/LICENSE-MIT",
+        "sha256": "0f96a83840e146e43c0ec96a22ec1f392e0680e6c1226e6f3ba87e0740af850f"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "mio",
+    "version": "1.2.4",
+    "declaredLicense": "MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/mio-1.2.4/LICENSE",
+        "sha256": "07919255c7e04793d8ea760d6c2ce32d19f9ff02bdbdde3ce90b1e1880929a9b"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "once_cell",
+    "version": "1.21.4",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/once_cell-1.21.4/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/once_cell-1.21.4/LICENSE-MIT",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "percent-encoding",
+    "version": "2.3.2",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/percent-encoding-2.3.2/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/percent-encoding-2.3.2/LICENSE-MIT",
+        "sha256": "b38f11f6096706e6de553dabe2a7ed142d59b6fa8c97e290c67496154745cdd5"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "pin-project-lite",
+    "version": "0.2.17",
+    "declaredLicense": "Apache-2.0 OR MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/pin-project-lite-0.2.17/LICENSE-APACHE",
+        "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594"
+      },
+      {
+        "path": "docs/notices/cargo/pin-project-lite-0.2.17/LICENSE-MIT",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "potential_utf",
+    "version": "0.1.6",
+    "declaredLicense": "Unicode-3.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/potential_utf-0.1.6/LICENSE",
+        "sha256": "f367c1b8e1aa262435251e442901da4607b4650e0e63a026f5044473ecfb90f2"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "proc-macro2",
+    "version": "1.0.107",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/proc-macro2-1.0.107/LICENSE-APACHE",
+        "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+      },
+      {
+        "path": "docs/notices/cargo/proc-macro2-1.0.107/LICENSE-MIT",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "quinn",
+    "version": "0.11.12",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/quinn-0.11.12/LICENSE-APACHE",
+        "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+      },
+      {
+        "path": "docs/notices/cargo/quinn-0.11.12/LICENSE-MIT",
+        "sha256": "4b2d0aca6789fa39e03d6738e869ea0988cceba210ca34ebb59c15c463e93a04"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "quinn-proto",
+    "version": "0.11.19",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/quinn-proto-0.11.19/LICENSE-APACHE",
+        "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+      },
+      {
+        "path": "docs/notices/cargo/quinn-proto-0.11.19/LICENSE-MIT",
+        "sha256": "4b2d0aca6789fa39e03d6738e869ea0988cceba210ca34ebb59c15c463e93a04"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "quinn-udp",
+    "version": "0.5.16",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/quinn-udp-0.5.16/LICENSE-APACHE",
+        "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+      },
+      {
+        "path": "docs/notices/cargo/quinn-udp-0.5.16/LICENSE-MIT",
+        "sha256": "4b2d0aca6789fa39e03d6738e869ea0988cceba210ca34ebb59c15c463e93a04"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "quote",
+    "version": "1.0.47",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/quote-1.0.47/LICENSE-APACHE",
+        "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+      },
+      {
+        "path": "docs/notices/cargo/quote-1.0.47/LICENSE-MIT",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "r-efi",
+    "version": "6.0.0",
+    "declaredLicense": "MIT OR Apache-2.0 OR LGPL-2.1-or-later",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [],
+    "missingText": true
+  },
+  {
+    "kind": "cargo",
+    "name": "rand",
+    "version": "0.10.3",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/rand-0.10.3/COPYRIGHT",
+        "sha256": "90eb64f0279b0d9432accfa6023ff803bc4965212383697eee27a0f426d5f8d5"
+      },
+      {
+        "path": "docs/notices/cargo/rand-0.10.3/LICENSE-APACHE",
+        "sha256": "35242e7a83f69875e6edeff02291e688c97caafe2f8902e4e19b49d3e78b4cab"
+      },
+      {
+        "path": "docs/notices/cargo/rand-0.10.3/LICENSE-MIT",
+        "sha256": "209fbbe0ad52d9235e37badf9cadfe4dbdc87203179c0899e738b39ade42177b"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "rand_core",
+    "version": "0.10.1",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/rand_core-0.10.1/COPYRIGHT",
+        "sha256": "92b81db30f7ab6d693e0af5661a40d273ca1947e891123ed823924192c10cbc7"
+      },
+      {
+        "path": "docs/notices/cargo/rand_core-0.10.1/LICENSE-APACHE",
+        "sha256": "6df43f6f4b5d4587f3d8d71e45532c688fd168afa5fe89d571cb32fa09c4ef51"
+      },
+      {
+        "path": "docs/notices/cargo/rand_core-0.10.1/LICENSE-MIT",
+        "sha256": "8b6e9feec03e7c9a5facb26855cecd31662bf989b636bcfe79521bdf8ac863f0"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "rand_pcg",
+    "version": "0.10.2",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/rand_pcg-0.10.2/COPYRIGHT",
+        "sha256": "90eb64f0279b0d9432accfa6023ff803bc4965212383697eee27a0f426d5f8d5"
+      },
+      {
+        "path": "docs/notices/cargo/rand_pcg-0.10.2/LICENSE-APACHE",
+        "sha256": "6df43f6f4b5d4587f3d8d71e45532c688fd168afa5fe89d571cb32fa09c4ef51"
+      },
+      {
+        "path": "docs/notices/cargo/rand_pcg-0.10.2/LICENSE-MIT",
+        "sha256": "2234e3cefee876aeb686ad89e978bdb07bf118a1186ab1cf161bcdf69d4b4f57"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "reqwest",
+    "version": "0.12.28",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/reqwest-0.12.28/LICENSE-APACHE",
+        "sha256": "751963a8b88c0e3a9f27e98933079fbcf09b9998b2c13ac49c2e4d58444520d6"
+      },
+      {
+        "path": "docs/notices/cargo/reqwest-0.12.28/LICENSE-MIT",
+        "sha256": "47d4e1803702728e03d30f8a848ae2249ba274bbd9f8443e803f7924d83cd371"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "ring",
+    "version": "0.17.14",
+    "declaredLicense": "Apache-2.0 AND ISC",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/ring-0.17.14/LICENSE",
+        "sha256": "b3d734001a94efff3579978d953391aa7115f877657d25eb54037a43875d078a"
+      },
+      {
+        "path": "docs/notices/cargo/ring-0.17.14/LICENSE-BoringSSL",
+        "sha256": "005fc765ddc5115da796cca915baa9557abae13ff35e0a47c47affc56f6c414d"
+      },
+      {
+        "path": "docs/notices/cargo/ring-0.17.14/LICENSE-other-bits",
+        "sha256": "f025ccfb7dfb6bdfedc75ca0f67acc69e6fb4998143d834f7c2f38a29989680f"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "rustc-hash",
+    "version": "2.1.3",
+    "declaredLicense": "Apache-2.0 OR MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/rustc-hash-2.1.3/LICENSE-APACHE",
+        "sha256": "95bd3988beee069fa2848f648dab43cc6e0b2add2ad6bcb17360caf749802bcc"
+      },
+      {
+        "path": "docs/notices/cargo/rustc-hash-2.1.3/LICENSE-MIT",
+        "sha256": "30fefc3a7d6a0041541858293bcbea2dde4caa4c0a5802f996a7f7e8c0085652"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "rustix",
+    "version": "1.1.5",
+    "declaredLicense": "Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/rustix-1.1.5/COPYRIGHT",
+        "sha256": "377c2e7c53250cc5905c0b0532d35973392af16ffb9596a41d99d202cf3617c9"
+      },
+      {
+        "path": "docs/notices/cargo/rustix-1.1.5/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/rustix-1.1.5/LICENSE-Apache-2.0_WITH_LLVM-exception",
+        "sha256": "268872b9816f90fd8e85db5a28d33f8150ebb8dd016653fb39ef1f94f2686bc5"
+      },
+      {
+        "path": "docs/notices/cargo/rustix-1.1.5/LICENSE-MIT",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "rustls",
+    "version": "0.23.46",
+    "declaredLicense": "Apache-2.0 OR ISC OR MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/rustls-0.23.46/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/rustls-0.23.46/LICENSE-ISC",
+        "sha256": "7cfafc877eccc46c0e346ccbaa5c51bb6b894d2b818e617d970211e232785ad4"
+      },
+      {
+        "path": "docs/notices/cargo/rustls-0.23.46/LICENSE-MIT",
+        "sha256": "709e3175b4212f7b13aa93971c9f62ff8c69ec45ad8c6532a7e0c41d7a7d6f8c"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "rustls-pki-types",
+    "version": "1.15.1",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/rustls-pki-types-1.15.1/LICENSE-APACHE",
+        "sha256": "45fd05c4865e7c350b98ad7ac50e1b15462d49af4a91e9b0c9dd933dc9a69742"
+      },
+      {
+        "path": "docs/notices/cargo/rustls-pki-types-1.15.1/LICENSE-MIT",
+        "sha256": "9117d922e667125508dde62b02c1f57ed22f5ad21eb536aa2e2d99e1c796e639"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "rustls-webpki",
+    "version": "0.103.16",
+    "declaredLicense": "ISC",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/rustls-webpki-0.103.16/LICENSE",
+        "sha256": "5b698ca13897be3afdb7174256fa1574f8c6892b8bea1a66dd6469d3fe27885a"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "rustversion",
+    "version": "1.0.23",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/rustversion-1.0.23/LICENSE-APACHE",
+        "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+      },
+      {
+        "path": "docs/notices/cargo/rustversion-1.0.23/LICENSE-MIT",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "ryu",
+    "version": "1.0.23",
+    "declaredLicense": "Apache-2.0 OR BSL-1.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/ryu-1.0.23/LICENSE-APACHE",
+        "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+      },
+      {
+        "path": "docs/notices/cargo/ryu-1.0.23/LICENSE-BOOST",
+        "sha256": "c9bff75738922193e67fa726fa225535870d2aa1059f91452c411736284ad566"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "ryu-js",
+    "version": "1.0.3",
+    "declaredLicense": "Apache-2.0 OR BSL-1.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/ryu-js-1.0.3/LICENSE-APACHE",
+        "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+      },
+      {
+        "path": "docs/notices/cargo/ryu-js-1.0.3/LICENSE-BOOST",
+        "sha256": "c9bff75738922193e67fa726fa225535870d2aa1059f91452c411736284ad566"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "serde",
+    "version": "1.0.229",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/serde-1.0.229/LICENSE-APACHE",
+        "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+      },
+      {
+        "path": "docs/notices/cargo/serde-1.0.229/LICENSE-MIT",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "serde_core",
+    "version": "1.0.229",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/serde_core-1.0.229/LICENSE-APACHE",
+        "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+      },
+      {
+        "path": "docs/notices/cargo/serde_core-1.0.229/LICENSE-MIT",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "serde_derive",
+    "version": "1.0.229",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/serde_derive-1.0.229/LICENSE-APACHE",
+        "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+      },
+      {
+        "path": "docs/notices/cargo/serde_derive-1.0.229/LICENSE-MIT",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "serde_json",
+    "version": "1.0.154",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/serde_json-1.0.154/LICENSE-APACHE",
+        "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+      },
+      {
+        "path": "docs/notices/cargo/serde_json-1.0.154/LICENSE-MIT",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "serde_urlencoded",
+    "version": "0.7.1",
+    "declaredLicense": "MIT/Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/serde_urlencoded-0.7.1/LICENSE-APACHE",
+        "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+      },
+      {
+        "path": "docs/notices/cargo/serde_urlencoded-0.7.1/LICENSE-MIT",
+        "sha256": "b9eb266294324f672cbe945fe8f2e32f85024f0d61a1a7d14382cdde0ac44769"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "sha2",
+    "version": "0.10.9",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/sha2-0.10.9/LICENSE-APACHE",
+        "sha256": "a9040321c3712d8fd0b09cf52b17445de04a23a10165049ae187cd39e5c86be5"
+      },
+      {
+        "path": "docs/notices/cargo/sha2-0.10.9/LICENSE-MIT",
+        "sha256": "b4eb00df6e2a4d22518fcaa6a2b4646f249b3a3c9814509b22bd2091f1392ff1"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "shlex",
+    "version": "2.0.1",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/shlex-2.0.1/LICENSE-APACHE",
+        "sha256": "553fffcd9b1cb158bc3e9edc35da85ca5c3b3d7d2e61c883ebcfa8a65814b583"
+      },
+      {
+        "path": "docs/notices/cargo/shlex-2.0.1/LICENSE-MIT",
+        "sha256": "4455bf75a91154108304cb283e0fea9948c14f13e20d60887cf2552449dea3b1"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "signal-hook-registry",
+    "version": "1.4.8",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/signal-hook-registry-1.4.8/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/signal-hook-registry-1.4.8/LICENSE-MIT",
+        "sha256": "503558bfefe66ca15e4e3f7955b3cb0ec87fd52f29bf24b336af7bd00e946d5c"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "slab",
+    "version": "0.4.12",
+    "declaredLicense": "MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/slab-0.4.12/LICENSE",
+        "sha256": "8ce0830173fdac609dfb4ea603fdc002c2f4af0dc9b1a005653f5da9cf534b18"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "smallvec",
+    "version": "1.16.4",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/smallvec-1.16.4/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/smallvec-1.16.4/LICENSE-MIT",
+        "sha256": "0b28172679e0009b655da42797c03fd163a3379d5cfa67ba1f1655e974a2a1a9"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "socket2",
+    "version": "0.6.5",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/socket2-0.6.5/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/socket2-0.6.5/LICENSE-MIT",
+        "sha256": "378f5840b258e2779c39418f3f2d7b2ba96f1c7917dd6be0713f88305dbda397"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "stable_deref_trait",
+    "version": "1.2.1",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/stable_deref_trait-1.2.1/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/stable_deref_trait-1.2.1/LICENSE-MIT",
+        "sha256": "5e05b024f653a5ce199e77cbbbd42fb5553562ec714b819421ed0c3e552a75d7"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "subtle",
+    "version": "2.6.1",
+    "declaredLicense": "BSD-3-Clause",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/subtle-2.6.1/LICENSE",
+        "sha256": "d1fc1bc0d155df60b2e7705b6b2ae02a05c96f948e1cec6e2fb86360b09f346b"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "syn",
+    "version": "3.0.9",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/syn-3.0.9/LICENSE-APACHE",
+        "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+      },
+      {
+        "path": "docs/notices/cargo/syn-3.0.9/LICENSE-MIT",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "sync_wrapper",
+    "version": "1.0.2",
+    "declaredLicense": "Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/sync_wrapper-1.0.2/LICENSE",
+        "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "synstructure",
+    "version": "0.14.0",
+    "declaredLicense": "MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/synstructure-0.14.0/LICENSE",
+        "sha256": "219920e865eee70b7dcfc948a86b099e7f4fe2de01bcca2ca9a20c0a033f2b59"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "tempfile",
+    "version": "3.27.0",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/tempfile-3.27.0/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/tempfile-3.27.0/LICENSE-MIT",
+        "sha256": "8b427f5bc501764575e52ba4f9d95673cf8f6d80a86d0d06599852e1a9a20a36"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "tezbar-extension-sdk",
+    "version": "0.1.1",
+    "declaredLicense": "Apache-2.0",
+    "source": "git+https://github.com/almatkai/tezbar-extension-sdk-rust.git?rev=e955911f0bf5b558f9d3eb5183df0adc95c22af2#e955911f0bf5b558f9d3eb5183df0adc95c22af2",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/tezbar-extension-sdk-0.1.1/LICENSE",
+        "sha256": "0ed6b1b2760294d4aaaa45be38e166fcc0168e1dd5190423c096fcbe1c94afbf"
+      },
+      {
+        "path": "docs/notices/cargo/tezbar-extension-sdk-0.1.1/NOTICE",
+        "sha256": "aa04ab6115cfc2e2172b0613013611a59dc487c70f3e2dfbd2f135326d703c74"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "thiserror",
+    "version": "2.0.21",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/thiserror-2.0.21/LICENSE-APACHE",
+        "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+      },
+      {
+        "path": "docs/notices/cargo/thiserror-2.0.21/LICENSE-MIT",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "thiserror-impl",
+    "version": "2.0.21",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/thiserror-impl-2.0.21/LICENSE-APACHE",
+        "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+      },
+      {
+        "path": "docs/notices/cargo/thiserror-impl-2.0.21/LICENSE-MIT",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "tinystr",
+    "version": "0.8.5",
+    "declaredLicense": "Unicode-3.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/tinystr-0.8.5/LICENSE",
+        "sha256": "f367c1b8e1aa262435251e442901da4607b4650e0e63a026f5044473ecfb90f2"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "tinyvec",
+    "version": "1.13.3",
+    "declaredLicense": "Zlib OR Apache-2.0 OR MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/tinyvec-1.13.3/LICENSE-APACHE.md",
+        "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+      },
+      {
+        "path": "docs/notices/cargo/tinyvec-1.13.3/LICENSE-MIT.md",
+        "sha256": "fd80a26fbb3f644af1fa994134446702932968519797227e07a1368dea80f0bc"
+      },
+      {
+        "path": "docs/notices/cargo/tinyvec-1.13.3/LICENSE-ZLIB.md",
+        "sha256": "84b34dd7608f7fb9b17bd588a6bf392bf7de504e2716f024a77d89f1b145a151"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "tokio",
+    "version": "1.54.1",
+    "declaredLicense": "MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/tokio-1.54.1/LICENSE",
+        "sha256": "253cd04c6714889df2d32f3f64d669179a1c95c76ac43c40882c52eb06bc3552"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "tokio-macros",
+    "version": "2.7.2",
+    "declaredLicense": "MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/tokio-macros-2.7.2/LICENSE",
+        "sha256": "0b83dc40cba89b9922bb84b0a9c7d2768ce37c1d7e138b7424fd4549915778c9"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "tokio-rustls",
+    "version": "0.26.6",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/tokio-rustls-0.26.6/LICENSE-APACHE",
+        "sha256": "cc117d90b498b32b11a886f279b359da16a73c3b01efbb2f5cc004b20262334e"
+      },
+      {
+        "path": "docs/notices/cargo/tokio-rustls-0.26.6/LICENSE-MIT",
+        "sha256": "e20fa2b8e0a2565f24a792b94b4bf4b6c2b9d36f781d8a9516e218a036e6677a"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "tokio-util",
+    "version": "0.7.20",
+    "declaredLicense": "MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/tokio-util-0.7.20/LICENSE",
+        "sha256": "253cd04c6714889df2d32f3f64d669179a1c95c76ac43c40882c52eb06bc3552"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "tower",
+    "version": "0.5.3",
+    "declaredLicense": "MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/tower-0.5.3/LICENSE",
+        "sha256": "4249c8e6c5ebb85f97c77e6457c6fafc1066406eb8f1ef61e796fbdc5ff18482"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "tower-http",
+    "version": "0.6.11",
+    "declaredLicense": "MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/tower-http-0.6.11/LICENSE",
+        "sha256": "5049cf464977eff4b4fcfa7988d84e74116956a3eb9d5f1d451b3f828f945233"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "tower-layer",
+    "version": "0.3.3",
+    "declaredLicense": "MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/tower-layer-0.3.3/LICENSE",
+        "sha256": "4249c8e6c5ebb85f97c77e6457c6fafc1066406eb8f1ef61e796fbdc5ff18482"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "tower-service",
+    "version": "0.3.3",
+    "declaredLicense": "MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/tower-service-0.3.3/LICENSE",
+        "sha256": "4249c8e6c5ebb85f97c77e6457c6fafc1066406eb8f1ef61e796fbdc5ff18482"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "tracing",
+    "version": "0.1.44",
+    "declaredLicense": "MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/tracing-0.1.44/LICENSE",
+        "sha256": "898b1ae9821e98daf8964c8d6c7f61641f5f5aa78ad500020771c0939ee0dea1"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "tracing-core",
+    "version": "0.1.36",
+    "declaredLicense": "MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/tracing-core-0.1.36/LICENSE",
+        "sha256": "898b1ae9821e98daf8964c8d6c7f61641f5f5aa78ad500020771c0939ee0dea1"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "try-lock",
+    "version": "0.2.5",
+    "declaredLicense": "MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/try-lock-0.2.5/LICENSE",
+        "sha256": "c816a0749cdc6bf062a5111c159723de51b2bfac66a1dac2655abd9e6b1583eb"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "typenum",
+    "version": "1.20.1",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/typenum-1.20.1/LICENSE",
+        "sha256": "db11fec9946737df39ca3898d9cd8c10ec6f6c3a884a6802b0ad0b81b4e8f23a"
+      },
+      {
+        "path": "docs/notices/cargo/typenum-1.20.1/LICENSE-APACHE",
+        "sha256": "516b24e051bf5630880ebbd55c40a25ce9552ebaf8970a53e8976eb70e522406"
+      },
+      {
+        "path": "docs/notices/cargo/typenum-1.20.1/LICENSE-MIT",
+        "sha256": "a825bd853ab71619a4923d7b4311221427848070ff44d990da39b0b274c1683f"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "unicode-ident",
+    "version": "1.0.27",
+    "declaredLicense": "(MIT OR Apache-2.0) AND Unicode-3.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/unicode-ident-1.0.27/LICENSE-APACHE",
+        "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+      },
+      {
+        "path": "docs/notices/cargo/unicode-ident-1.0.27/LICENSE-MIT",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+      },
+      {
+        "path": "docs/notices/cargo/unicode-ident-1.0.27/LICENSE-UNICODE",
+        "sha256": "f7db81051789b729fea528a63ec4c938fdcb93d9d61d97dc8cc2e9df6d47f2a1"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "untrusted",
+    "version": "0.9.0",
+    "declaredLicense": "ISC",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/untrusted-0.9.0/LICENSE.txt",
+        "sha256": "7abd9b6960dcf7d4d0a48606a5b71bfe37d472db68d70637f3a58a56785f1621"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "url",
+    "version": "2.5.8",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/url-2.5.8/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/url-2.5.8/LICENSE-MIT",
+        "sha256": "b38f11f6096706e6de553dabe2a7ed142d59b6fa8c97e290c67496154745cdd5"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "utf8_iter",
+    "version": "1.0.4",
+    "declaredLicense": "Apache-2.0 OR MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/utf8_iter-1.0.4/COPYRIGHT",
+        "sha256": "c30152c94a6d75e021adbc52b3a52470366a46edb917e17deae3259251af244c"
+      },
+      {
+        "path": "docs/notices/cargo/utf8_iter-1.0.4/LICENSE-APACHE",
+        "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+      },
+      {
+        "path": "docs/notices/cargo/utf8_iter-1.0.4/LICENSE-MIT",
+        "sha256": "3fa4ca83dcc9237839b1bdeb2e6d16bdfb5ec0c5ce42b24694d8bbf0dcbef72c"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "uuid",
+    "version": "1.23.3",
+    "declaredLicense": "Apache-2.0 OR MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/uuid-1.23.3/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/uuid-1.23.3/LICENSE-MIT",
+        "sha256": "436bc5a105d8e57dcd8778730f3754f7bf39c14d2f530e4cde4bd2d17a83ec3d"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "version_check",
+    "version": "0.9.5",
+    "declaredLicense": "MIT/Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/version_check-0.9.5/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/version_check-0.9.5/LICENSE-MIT",
+        "sha256": "b7e650f3fce5c53249d1cdc608b54df156a97edd636cf9d23498d0cfe7aec63e"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "want",
+    "version": "0.3.2",
+    "declaredLicense": "MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/want-0.3.2/LICENSE",
+        "sha256": "a65f5d0a945d267751344c95665945b90c030ea107faf5c85d518929886187da"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "wasi",
+    "version": "0.11.1+wasi-snapshot-preview1",
+    "declaredLicense": "Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/wasi-0.11.1+wasi-snapshot-preview1/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/wasi-0.11.1+wasi-snapshot-preview1/LICENSE-Apache-2.0_WITH_LLVM-exception",
+        "sha256": "268872b9816f90fd8e85db5a28d33f8150ebb8dd016653fb39ef1f94f2686bc5"
+      },
+      {
+        "path": "docs/notices/cargo/wasi-0.11.1+wasi-snapshot-preview1/LICENSE-MIT",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "wasm-bindgen",
+    "version": "0.2.129",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/wasm-bindgen-0.2.129/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/wasm-bindgen-0.2.129/LICENSE-MIT",
+        "sha256": "378f5840b258e2779c39418f3f2d7b2ba96f1c7917dd6be0713f88305dbda397"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "wasm-bindgen-futures",
+    "version": "0.4.79",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/wasm-bindgen-futures-0.4.79/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/wasm-bindgen-futures-0.4.79/LICENSE-MIT",
+        "sha256": "378f5840b258e2779c39418f3f2d7b2ba96f1c7917dd6be0713f88305dbda397"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "wasm-bindgen-macro",
+    "version": "0.2.129",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/wasm-bindgen-macro-0.2.129/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/wasm-bindgen-macro-0.2.129/LICENSE-MIT",
+        "sha256": "378f5840b258e2779c39418f3f2d7b2ba96f1c7917dd6be0713f88305dbda397"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "wasm-bindgen-macro-support",
+    "version": "0.2.129",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/wasm-bindgen-macro-support-0.2.129/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/wasm-bindgen-macro-support-0.2.129/LICENSE-MIT",
+        "sha256": "378f5840b258e2779c39418f3f2d7b2ba96f1c7917dd6be0713f88305dbda397"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "wasm-bindgen-shared",
+    "version": "0.2.129",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/wasm-bindgen-shared-0.2.129/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/wasm-bindgen-shared-0.2.129/LICENSE-MIT",
+        "sha256": "378f5840b258e2779c39418f3f2d7b2ba96f1c7917dd6be0713f88305dbda397"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "wasm-streams",
+    "version": "0.4.2",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/wasm-streams-0.4.2/LICENSE-APACHE",
+        "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a"
+      },
+      {
+        "path": "docs/notices/cargo/wasm-streams-0.4.2/LICENSE-MIT",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "web-sys",
+    "version": "0.3.106",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/web-sys-0.3.106/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2"
+      },
+      {
+        "path": "docs/notices/cargo/web-sys-0.3.106/LICENSE-MIT",
+        "sha256": "378f5840b258e2779c39418f3f2d7b2ba96f1c7917dd6be0713f88305dbda397"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "web-time",
+    "version": "1.1.0",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/web-time-1.1.0/LICENSE-APACHE",
+        "sha256": "54a744942eb3fa63a74d8d359989ed6962c04f3f10ff20cfa08ff8aa7efbe4e6"
+      },
+      {
+        "path": "docs/notices/cargo/web-time-1.1.0/LICENSE-MIT",
+        "sha256": "f428305bbf2e70fbd807af0f3c7ac1b7acfb95311640f451e9d2e48db6d7e96b"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "webpki-roots",
+    "version": "1.0.11",
+    "declaredLicense": "CDLA-Permissive-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/webpki-roots-1.0.11/LICENSE",
+        "sha256": "e271993808fec50ab29350b39539cdec611a9103f827e0aa26d61da70e2d33f8"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "windows-link",
+    "version": "0.2.1",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/windows-link-0.2.1/license-apache-2.0",
+        "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b"
+      },
+      {
+        "path": "docs/notices/cargo/windows-link-0.2.1/license-mit",
+        "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "windows-sys",
+    "version": "0.52.0",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/windows-sys-0.52.0/license-apache-2.0",
+        "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b"
+      },
+      {
+        "path": "docs/notices/cargo/windows-sys-0.52.0/license-mit",
+        "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "windows-sys",
+    "version": "0.59.0",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/windows-sys-0.59.0/license-apache-2.0",
+        "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b"
+      },
+      {
+        "path": "docs/notices/cargo/windows-sys-0.59.0/license-mit",
+        "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "windows-sys",
+    "version": "0.61.2",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/windows-sys-0.61.2/license-apache-2.0",
+        "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b"
+      },
+      {
+        "path": "docs/notices/cargo/windows-sys-0.61.2/license-mit",
+        "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "windows-targets",
+    "version": "0.52.6",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/windows-targets-0.52.6/license-apache-2.0",
+        "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b"
+      },
+      {
+        "path": "docs/notices/cargo/windows-targets-0.52.6/license-mit",
+        "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "windows_aarch64_gnullvm",
+    "version": "0.52.6",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/windows_aarch64_gnullvm-0.52.6/license-apache-2.0",
+        "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b"
+      },
+      {
+        "path": "docs/notices/cargo/windows_aarch64_gnullvm-0.52.6/license-mit",
+        "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "windows_aarch64_msvc",
+    "version": "0.52.6",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/windows_aarch64_msvc-0.52.6/license-apache-2.0",
+        "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b"
+      },
+      {
+        "path": "docs/notices/cargo/windows_aarch64_msvc-0.52.6/license-mit",
+        "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "windows_i686_gnu",
+    "version": "0.52.6",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/windows_i686_gnu-0.52.6/license-apache-2.0",
+        "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b"
+      },
+      {
+        "path": "docs/notices/cargo/windows_i686_gnu-0.52.6/license-mit",
+        "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "windows_i686_gnullvm",
+    "version": "0.52.6",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/windows_i686_gnullvm-0.52.6/license-apache-2.0",
+        "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b"
+      },
+      {
+        "path": "docs/notices/cargo/windows_i686_gnullvm-0.52.6/license-mit",
+        "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "windows_i686_msvc",
+    "version": "0.52.6",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/windows_i686_msvc-0.52.6/license-apache-2.0",
+        "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b"
+      },
+      {
+        "path": "docs/notices/cargo/windows_i686_msvc-0.52.6/license-mit",
+        "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "windows_x86_64_gnu",
+    "version": "0.52.6",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/windows_x86_64_gnu-0.52.6/license-apache-2.0",
+        "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b"
+      },
+      {
+        "path": "docs/notices/cargo/windows_x86_64_gnu-0.52.6/license-mit",
+        "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "windows_x86_64_gnullvm",
+    "version": "0.52.6",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/windows_x86_64_gnullvm-0.52.6/license-apache-2.0",
+        "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b"
+      },
+      {
+        "path": "docs/notices/cargo/windows_x86_64_gnullvm-0.52.6/license-mit",
+        "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "windows_x86_64_msvc",
+    "version": "0.52.6",
+    "declaredLicense": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/windows_x86_64_msvc-0.52.6/license-apache-2.0",
+        "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b"
+      },
+      {
+        "path": "docs/notices/cargo/windows_x86_64_msvc-0.52.6/license-mit",
+        "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "writeable",
+    "version": "0.6.4",
+    "declaredLicense": "Unicode-3.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/writeable-0.6.4/LICENSE",
+        "sha256": "f367c1b8e1aa262435251e442901da4607b4650e0e63a026f5044473ecfb90f2"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "yoke",
+    "version": "0.8.4",
+    "declaredLicense": "Unicode-3.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/yoke-0.8.4/LICENSE",
+        "sha256": "f367c1b8e1aa262435251e442901da4607b4650e0e63a026f5044473ecfb90f2"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "yoke-derive",
+    "version": "0.8.4",
+    "declaredLicense": "Unicode-3.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/yoke-derive-0.8.4/LICENSE",
+        "sha256": "f367c1b8e1aa262435251e442901da4607b4650e0e63a026f5044473ecfb90f2"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "zerofrom",
+    "version": "0.1.8",
+    "declaredLicense": "Unicode-3.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/zerofrom-0.1.8/LICENSE",
+        "sha256": "f367c1b8e1aa262435251e442901da4607b4650e0e63a026f5044473ecfb90f2"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "zerofrom-derive",
+    "version": "0.1.8",
+    "declaredLicense": "Unicode-3.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/zerofrom-derive-0.1.8/LICENSE",
+        "sha256": "f367c1b8e1aa262435251e442901da4607b4650e0e63a026f5044473ecfb90f2"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "zeroize",
+    "version": "1.9.1",
+    "declaredLicense": "Apache-2.0 OR MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/zeroize-1.9.1/LICENSE-APACHE",
+        "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+      },
+      {
+        "path": "docs/notices/cargo/zeroize-1.9.1/LICENSE-MIT",
+        "sha256": "8c7516d4b27b1e495be5e38b612298b63de48d05f49cdac94f70f3cd70f8864b"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "zerotrie",
+    "version": "0.2.5",
+    "declaredLicense": "Unicode-3.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/zerotrie-0.2.5/LICENSE",
+        "sha256": "f367c1b8e1aa262435251e442901da4607b4650e0e63a026f5044473ecfb90f2"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "zerovec",
+    "version": "0.11.9",
+    "declaredLicense": "Unicode-3.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/zerovec-0.11.9/LICENSE",
+        "sha256": "f367c1b8e1aa262435251e442901da4607b4650e0e63a026f5044473ecfb90f2"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "zerovec-derive",
+    "version": "0.11.7",
+    "declaredLicense": "Unicode-3.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/zerovec-derive-0.11.7/LICENSE",
+        "sha256": "f367c1b8e1aa262435251e442901da4607b4650e0e63a026f5044473ecfb90f2"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "cargo",
+    "name": "zmij",
+    "version": "1.0.23",
+    "declaredLicense": "MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "texts": [
+      {
+        "path": "docs/notices/cargo/zmij-1.0.23/LICENSE-MIT",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "@esbuild/darwin-arm64",
+    "version": "0.27.7",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/@esbuild/darwin-arm64/-/darwin-arm64-0.27.7.tgz",
+    "texts": [],
+    "missingText": true
+  },
+  {
+    "kind": "npm-qa",
+    "name": "@inquirer/ansi",
+    "version": "1.0.2",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/@inquirer/ansi/-/ansi-1.0.2.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/@inquirer_ansi-1.0.2/LICENSE",
+        "sha256": "85aca0b12ce5ade4ff76e9cbbe7e0d5a4cdde979e3930727c272e1fa04b8cc23"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "@inquirer/checkbox",
+    "version": "4.3.2",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/@inquirer/checkbox/-/checkbox-4.3.2.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/@inquirer_checkbox-4.3.2/LICENSE",
+        "sha256": "85aca0b12ce5ade4ff76e9cbbe7e0d5a4cdde979e3930727c272e1fa04b8cc23"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "@inquirer/confirm",
+    "version": "5.1.21",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/@inquirer/confirm/-/confirm-5.1.21.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/@inquirer_confirm-5.1.21/LICENSE",
+        "sha256": "85aca0b12ce5ade4ff76e9cbbe7e0d5a4cdde979e3930727c272e1fa04b8cc23"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "@inquirer/core",
+    "version": "10.3.2",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/@inquirer/core/-/core-10.3.2.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/@inquirer_core-10.3.2/LICENSE",
+        "sha256": "85aca0b12ce5ade4ff76e9cbbe7e0d5a4cdde979e3930727c272e1fa04b8cc23"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "wrap-ansi",
+    "version": "6.2.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/wrap-ansi/-/wrap-ansi-6.2.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/wrap-ansi-6.2.0/license",
+        "sha256": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "@inquirer/editor",
+    "version": "4.2.23",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/@inquirer/editor/-/editor-4.2.23.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/@inquirer_editor-4.2.23/LICENSE",
+        "sha256": "85aca0b12ce5ade4ff76e9cbbe7e0d5a4cdde979e3930727c272e1fa04b8cc23"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "@inquirer/expand",
+    "version": "4.0.23",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/@inquirer/expand/-/expand-4.0.23.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/@inquirer_expand-4.0.23/LICENSE",
+        "sha256": "85aca0b12ce5ade4ff76e9cbbe7e0d5a4cdde979e3930727c272e1fa04b8cc23"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "@inquirer/external-editor",
+    "version": "1.0.3",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/@inquirer/external-editor/-/external-editor-1.0.3.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/@inquirer_external-editor-1.0.3/LICENSE",
+        "sha256": "85aca0b12ce5ade4ff76e9cbbe7e0d5a4cdde979e3930727c272e1fa04b8cc23"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "@inquirer/figures",
+    "version": "1.0.15",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/@inquirer/figures/-/figures-1.0.15.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/@inquirer_figures-1.0.15/LICENSE",
+        "sha256": "85aca0b12ce5ade4ff76e9cbbe7e0d5a4cdde979e3930727c272e1fa04b8cc23"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "@inquirer/input",
+    "version": "4.3.1",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/@inquirer/input/-/input-4.3.1.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/@inquirer_input-4.3.1/LICENSE",
+        "sha256": "85aca0b12ce5ade4ff76e9cbbe7e0d5a4cdde979e3930727c272e1fa04b8cc23"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "@inquirer/number",
+    "version": "3.0.23",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/@inquirer/number/-/number-3.0.23.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/@inquirer_number-3.0.23/LICENSE",
+        "sha256": "85aca0b12ce5ade4ff76e9cbbe7e0d5a4cdde979e3930727c272e1fa04b8cc23"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "@inquirer/password",
+    "version": "4.0.23",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/@inquirer/password/-/password-4.0.23.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/@inquirer_password-4.0.23/LICENSE",
+        "sha256": "85aca0b12ce5ade4ff76e9cbbe7e0d5a4cdde979e3930727c272e1fa04b8cc23"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "@inquirer/prompts",
+    "version": "7.10.1",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/@inquirer/prompts/-/prompts-7.10.1.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/@inquirer_prompts-7.10.1/LICENSE",
+        "sha256": "85aca0b12ce5ade4ff76e9cbbe7e0d5a4cdde979e3930727c272e1fa04b8cc23"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "@inquirer/rawlist",
+    "version": "4.1.11",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/@inquirer/rawlist/-/rawlist-4.1.11.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/@inquirer_rawlist-4.1.11/LICENSE",
+        "sha256": "85aca0b12ce5ade4ff76e9cbbe7e0d5a4cdde979e3930727c272e1fa04b8cc23"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "@inquirer/search",
+    "version": "3.2.2",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/@inquirer/search/-/search-3.2.2.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/@inquirer_search-3.2.2/LICENSE",
+        "sha256": "85aca0b12ce5ade4ff76e9cbbe7e0d5a4cdde979e3930727c272e1fa04b8cc23"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "@inquirer/select",
+    "version": "4.4.2",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/@inquirer/select/-/select-4.4.2.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/@inquirer_select-4.4.2/LICENSE",
+        "sha256": "85aca0b12ce5ade4ff76e9cbbe7e0d5a4cdde979e3930727c272e1fa04b8cc23"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "@inquirer/type",
+    "version": "3.0.10",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/@inquirer/type/-/type-3.0.10.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/@inquirer_type-3.0.10/LICENSE",
+        "sha256": "85aca0b12ce5ade4ff76e9cbbe7e0d5a4cdde979e3930727c272e1fa04b8cc23"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "@leichtgewicht/ip-codec",
+    "version": "2.0.5",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/@leichtgewicht/ip-codec/-/ip-codec-2.0.5.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/@leichtgewicht_ip-codec-2.0.5/LICENSE",
+        "sha256": "09fd9784b65e00b09b6366845098a2cb6d6f559e84d292528f1e462c9e4acb62"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "@oclif/core",
+    "version": "4.14.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/@oclif/core/-/core-4.14.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/@oclif_core-4.14.0/LICENSE",
+        "sha256": "a9de3c39f8286ab8fe4a82da6e6272b402704876116b6307b10d67c4a189a87b"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "balanced-match",
+    "version": "4.0.4",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/balanced-match/-/balanced-match-4.0.4.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/balanced-match-4.0.4/LICENSE.md",
+        "sha256": "d408f38ffa3355c5faec517153295338892eb0f1ea43f57874bb23c6075979b5"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "brace-expansion",
+    "version": "5.0.9",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/brace-expansion/-/brace-expansion-5.0.9.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/brace-expansion-5.0.9/LICENSE",
+        "sha256": "9c63a23124d68cd30cd316a94a1a0bca34f032786df6df69fc4b5f136bac8d2e"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "minimatch",
+    "version": "10.2.6",
+    "declaredLicense": "BlueOak-1.0.0",
+    "source": "https://registry.npmjs.org/minimatch/-/minimatch-10.2.6.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/minimatch-10.2.6/LICENSE.md",
+        "sha256": "2c7c5d22ed5a8ee968c64757710979afcd77438c48b4a265b94e615babd8a901"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "@oclif/plugin-autocomplete",
+    "version": "3.3.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/@oclif/plugin-autocomplete/-/plugin-autocomplete-3.3.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/@oclif_plugin-autocomplete-3.3.0/LICENSE",
+        "sha256": "a9de3c39f8286ab8fe4a82da6e6272b402704876116b6307b10d67c4a189a87b"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "ejs",
+    "version": "3.1.10",
+    "declaredLicense": "Apache-2.0",
+    "source": "https://registry.npmjs.org/ejs/-/ejs-3.1.10.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/ejs-3.1.10/LICENSE",
+        "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "@oclif/plugin-help",
+    "version": "6.3.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/@oclif/plugin-help/-/plugin-help-6.3.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/@oclif_plugin-help-6.3.0/LICENSE",
+        "sha256": "a9de3c39f8286ab8fe4a82da6e6272b402704876116b6307b10d67c4a189a87b"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "@oclif/plugin-not-found",
+    "version": "3.3.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/@oclif/plugin-not-found/-/plugin-not-found-3.3.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/@oclif_plugin-not-found-3.3.0/LICENSE",
+        "sha256": "a9de3c39f8286ab8fe4a82da6e6272b402704876116b6307b10d67c4a189a87b"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "@raycast/api",
+    "version": "1.104.25",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/@raycast/api/-/api-1.104.25.tgz",
+    "texts": [],
+    "missingText": true
+  },
+  {
+    "kind": "npm-qa",
+    "name": "@types/node",
+    "version": "22.19.17",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/@types/node/-/node-22.19.17.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/@types_node-22.19.17/LICENSE",
+        "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "@types/react",
+    "version": "19.0.10",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/@types/react/-/react-19.0.10.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/@types_react-19.0.10/LICENSE",
+        "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "undici-types",
+    "version": "6.21.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/undici-types/-/undici-types-6.21.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/undici-types-6.21.0/LICENSE",
+        "sha256": "a6db8096b2707bc0102d256917d4d33f298ba36d8c3f25de067a2b5bb379db27"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "@raycast/utils",
+    "version": "2.2.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/@raycast/utils/-/utils-2.2.0.tgz",
+    "texts": [],
+    "missingText": true
+  },
+  {
+    "kind": "npm-qa",
+    "name": "@sindresorhus/is",
+    "version": "5.6.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/@sindresorhus/is/-/is-5.6.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/@sindresorhus_is-5.6.0/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "@szmarczak/http-timer",
+    "version": "5.0.1",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/@szmarczak/http-timer/-/http-timer-5.0.1.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/@szmarczak_http-timer-5.0.1/LICENSE",
+        "sha256": "0194571d45a06ea2a22ceb51f981e3be92525966d28847dbc0d9982603bf90de"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "@types/http-cache-semantics",
+    "version": "4.0.4",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/@types/http-cache-semantics/-/http-cache-semantics-4.0.4.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/@types_http-cache-semantics-4.0.4/LICENSE",
+        "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "@types/node",
+    "version": "24.0.14",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/@types/node/-/node-24.0.14.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/@types_node-24.0.14/LICENSE",
+        "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "@types/react",
+    "version": "19.1.8",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/@types/react/-/react-19.1.8.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/@types_react-19.1.8/LICENSE",
+        "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "@types/react-dom",
+    "version": "19.2.5",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/@types/react-dom/-/react-dom-19.2.5.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/@types_react-dom-19.2.5/LICENSE",
+        "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "agent-base",
+    "version": "6.0.2",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/agent-base/-/agent-base-6.0.2.tgz",
+    "texts": [],
+    "missingText": true
+  },
+  {
+    "kind": "npm-qa",
+    "name": "ansi-escapes",
+    "version": "4.3.2",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/ansi-escapes/-/ansi-escapes-4.3.2.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/ansi-escapes-4.3.2/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "ansi-regex",
+    "version": "5.0.1",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/ansi-regex/-/ansi-regex-5.0.1.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/ansi-regex-5.0.1/license",
+        "sha256": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "ansi-styles",
+    "version": "4.3.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/ansi-styles/-/ansi-styles-4.3.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/ansi-styles-4.3.0/license",
+        "sha256": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "ansis",
+    "version": "3.17.0",
+    "declaredLicense": "ISC",
+    "source": "https://registry.npmjs.org/ansis/-/ansis-3.17.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/ansis-3.17.0/LICENSE",
+        "sha256": "87ec186ac7438102db7ee5dae084510a81277ef631235c7712639c146c554737"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "async",
+    "version": "3.2.6",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/async/-/async-3.2.6.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/async-3.2.6/LICENSE",
+        "sha256": "d9fed24f132985934fca621c4dc1dfb53e03377a24d0568d424383d7eaa9c0ac"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "asynckit",
+    "version": "0.4.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/asynckit/-/asynckit-0.4.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/asynckit-0.4.0/LICENSE",
+        "sha256": "1953150d5d4b10c7542cee6f6e0c613b2682545233f069d75cfff1936386ce10"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "axios",
+    "version": "1.17.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/axios/-/axios-1.17.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/axios-1.17.0/LICENSE",
+        "sha256": "82761059eaedacb3356803aea8a170d8298609f91b14fc32ee1bfb40d690183c"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "balanced-match",
+    "version": "1.0.2",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/balanced-match/-/balanced-match-1.0.2.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/balanced-match-1.0.2/LICENSE.md",
+        "sha256": "a1bd5deadb6a06dd74efa852c1b8b23f63b67f2214fbe9c8bd591da51da69268"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "brace-expansion",
+    "version": "2.0.3",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/brace-expansion/-/brace-expansion-2.0.3.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/brace-expansion-2.0.3/LICENSE",
+        "sha256": "68f12f6e2c33688699249c01d8f9623c534da20aa71989c57b061b7bc1676d14"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "cacheable-lookup",
+    "version": "7.0.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/cacheable-lookup/-/cacheable-lookup-7.0.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/cacheable-lookup-7.0.0/LICENSE",
+        "sha256": "b35de79efc88b23c73dd431df6075bed0890db0db1544ee3d57b046aa7a8e72b"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "cacheable-request",
+    "version": "10.2.14",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/cacheable-request/-/cacheable-request-10.2.14.tgz",
+    "texts": [],
+    "missingText": true
+  },
+  {
+    "kind": "npm-qa",
+    "name": "call-bind-apply-helpers",
+    "version": "1.0.2",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/call-bind-apply-helpers/-/call-bind-apply-helpers-1.0.2.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/call-bind-apply-helpers-1.0.2/LICENSE",
+        "sha256": "5e325595b4ea8cfec3802f545b1def5d7b73e4a5b8e9ba63e32a320f67732292"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "chardet",
+    "version": "2.2.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/chardet/-/chardet-2.2.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/chardet-2.2.0/LICENSE",
+        "sha256": "04c53d57d2262d584caa8403251095d51df02146aa4628b6c01e63753bc64b3d"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "clean-stack",
+    "version": "3.0.1",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/clean-stack/-/clean-stack-3.0.1.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/clean-stack-3.0.1/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "cli-spinners",
+    "version": "2.9.2",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/cli-spinners/-/cli-spinners-2.9.2.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/cli-spinners-2.9.2/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "cli-width",
+    "version": "4.1.0",
+    "declaredLicense": "ISC",
+    "source": "https://registry.npmjs.org/cli-width/-/cli-width-4.1.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/cli-width-4.1.0/LICENSE",
+        "sha256": "31493c14dc0b4eb1e06fe5d4bab3ca4e3b40f8749433455c713863238600cf1a"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "clone-regexp",
+    "version": "3.0.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/clone-regexp/-/clone-regexp-3.0.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/clone-regexp-3.0.0/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "color-convert",
+    "version": "2.0.1",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/color-convert/-/color-convert-2.0.1.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/color-convert-2.0.1/LICENSE",
+        "sha256": "693866fc419c6f61c8570438ec00659d156ec2b4d4a4d04091711f5f11a365d4"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "color-name",
+    "version": "1.1.4",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/color-name/-/color-name-1.1.4.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/color-name-1.1.4/LICENSE",
+        "sha256": "c064f7a3e353bc1bc977f3c897941c75ef763f44f41677e0a15370ca0853d6e2"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "combined-stream",
+    "version": "1.0.8",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/combined-stream/-/combined-stream-1.0.8.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/combined-stream-1.0.8/License",
+        "sha256": "47eb8ca82c798246774946d1be0f9aa08f025fa8325ced0947aeeb4c05fe5547"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "convert-hrtime",
+    "version": "5.0.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/convert-hrtime/-/convert-hrtime-5.0.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/convert-hrtime-5.0.0/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "csstype",
+    "version": "3.1.3",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/csstype/-/csstype-3.1.3.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/csstype-3.1.3/LICENSE",
+        "sha256": "11d55bd4541c75ee7879547ac49089c489163dae49551389713c3d026cab383e"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "debug",
+    "version": "4.4.3",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/debug/-/debug-4.4.3.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/debug-4.4.3/LICENSE",
+        "sha256": "3a61c6c96caf5c1d9b623fb9b04c822b783dfcb78aa7e49c76a3f643e6ed7f95"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "decompress-response",
+    "version": "6.0.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/decompress-response/-/decompress-response-6.0.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/decompress-response-6.0.0/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "mimic-response",
+    "version": "3.1.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/mimic-response/-/mimic-response-3.1.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/mimic-response-3.1.0/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "defer-to-connect",
+    "version": "2.0.1",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/defer-to-connect/-/defer-to-connect-2.0.1.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/defer-to-connect-2.0.1/LICENSE",
+        "sha256": "0194571d45a06ea2a22ceb51f981e3be92525966d28847dbc0d9982603bf90de"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "delayed-stream",
+    "version": "1.0.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/delayed-stream/-/delayed-stream-1.0.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/delayed-stream-1.0.0/License",
+        "sha256": "47eb8ca82c798246774946d1be0f9aa08f025fa8325ced0947aeeb4c05fe5547"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "dequal",
+    "version": "2.0.3",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/dequal/-/dequal-2.0.3.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/dequal-2.0.3/license",
+        "sha256": "306fa513e39b23a6e8747520de761809d206b99800ef41907b530226574c59ae"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "dns-packet",
+    "version": "5.6.1",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/dns-packet/-/dns-packet-5.6.1.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/dns-packet-5.6.1/LICENSE",
+        "sha256": "6a134e51aa31496c15a741592fc5d782b2dbf8d8b6b8524e15c8520ae0cd6374"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "dns-socket",
+    "version": "4.2.2",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/dns-socket/-/dns-socket-4.2.2.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/dns-socket-4.2.2/LICENSE",
+        "sha256": "6a134e51aa31496c15a741592fc5d782b2dbf8d8b6b8524e15c8520ae0cd6374"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "dunder-proto",
+    "version": "1.0.1",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/dunder-proto/-/dunder-proto-1.0.1.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/dunder-proto-1.0.1/LICENSE",
+        "sha256": "2b770a704c15de238c3f622b01b0044ddd60b49ee30608ea6991ebf19db7a7a1"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "ejs",
+    "version": "6.0.1",
+    "declaredLicense": "Apache-2.0",
+    "source": "https://registry.npmjs.org/ejs/-/ejs-6.0.1.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/ejs-6.0.1/LICENSE",
+        "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "emoji-regex",
+    "version": "8.0.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/emoji-regex/-/emoji-regex-8.0.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/emoji-regex-8.0.0/LICENSE-MIT.txt",
+        "sha256": "483acb265f182907d1caf6cff9c16c96f31325ed23792832cc5d8b12d5f88c8a"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "es-define-property",
+    "version": "1.0.1",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/es-define-property/-/es-define-property-1.0.1.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/es-define-property-1.0.1/LICENSE",
+        "sha256": "5e325595b4ea8cfec3802f545b1def5d7b73e4a5b8e9ba63e32a320f67732292"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "es-errors",
+    "version": "1.3.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/es-errors/-/es-errors-1.3.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/es-errors-1.3.0/LICENSE",
+        "sha256": "5e325595b4ea8cfec3802f545b1def5d7b73e4a5b8e9ba63e32a320f67732292"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "es-object-atoms",
+    "version": "1.1.1",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/es-object-atoms/-/es-object-atoms-1.1.1.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/es-object-atoms-1.1.1/LICENSE",
+        "sha256": "5e325595b4ea8cfec3802f545b1def5d7b73e4a5b8e9ba63e32a320f67732292"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "es-set-tostringtag",
+    "version": "2.1.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/es-set-tostringtag/-/es-set-tostringtag-2.1.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/es-set-tostringtag-2.1.0/LICENSE",
+        "sha256": "1a3aeb1f1398bd697d57c3c585faadf59d825aca6e3162cd7eeb72ff76eb2466"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "esbuild",
+    "version": "0.27.7",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/esbuild/-/esbuild-0.27.7.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/esbuild-0.27.7/LICENSE.md",
+        "sha256": "b40ec5baec7bb34fa5b1c09521fa3cd52d5fad7adafed74932a2010d3612a681"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "escape-string-regexp",
+    "version": "4.0.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/escape-string-regexp/-/escape-string-regexp-4.0.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/escape-string-regexp-4.0.0/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "fast-levenshtein",
+    "version": "3.0.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-3.0.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/fast-levenshtein-3.0.0/LICENSE.md",
+        "sha256": "942a98cb8846a6354266193f173c1354615827fbb7d67f68399599dff12c4d6a"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "fastest-levenshtein",
+    "version": "1.0.16",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/fastest-levenshtein/-/fastest-levenshtein-1.0.16.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/fastest-levenshtein-1.0.16/LICENSE.md",
+        "sha256": "b8baf91be313643f3e87a01da77704b68e12795184a62e51e537a5a43c2932f3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "fdir",
+    "version": "6.5.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/fdir/-/fdir-6.5.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/fdir-6.5.0/LICENSE",
+        "sha256": "9a39f2aadab11a3697edd668ff2d8ad885b649737b7ab4d3bf12b34e5ada0c86"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "filelist",
+    "version": "1.0.6",
+    "declaredLicense": "Apache-2.0",
+    "source": "https://registry.npmjs.org/filelist/-/filelist-1.0.6.tgz",
+    "texts": [],
+    "missingText": true
+  },
+  {
+    "kind": "npm-qa",
+    "name": "minimatch",
+    "version": "5.1.9",
+    "declaredLicense": "ISC",
+    "source": "https://registry.npmjs.org/minimatch/-/minimatch-5.1.9.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/minimatch-5.1.9/LICENSE",
+        "sha256": "d11323827fa4edeaafc437cc5b91b6971b335f0127efeeb42bf5122fe8657e8f"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "follow-redirects",
+    "version": "1.16.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/follow-redirects/-/follow-redirects-1.16.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/follow-redirects-1.16.0/LICENSE",
+        "sha256": "bfa8a54bb952ccda79f0f1889721d108f5b605babbb2b8a3705ffb52f4132eb7"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "form-data",
+    "version": "4.0.5",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/form-data/-/form-data-4.0.5.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/form-data-4.0.5/License",
+        "sha256": "e5b780d4f38d1d3328e3e53186c4e62d3fa149ea6f2bacd5de5ad0c30ac85343"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "form-data-encoder",
+    "version": "2.1.4",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/form-data-encoder/-/form-data-encoder-2.1.4.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/form-data-encoder-2.1.4/license",
+        "sha256": "cd1dfbe6a9f582a5a9417cc42ca369cfb333ba5f914b1f40faad4222bf57f380"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "fsevents",
+    "version": "2.3.3",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/fsevents/-/fsevents-2.3.3.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/fsevents-2.3.3/LICENSE",
+        "sha256": "2a8a5d6197bb97a018b8a190dd3ed853d750ca87c8e80c17aad41d6c6ff448e1"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "function-bind",
+    "version": "1.1.2",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/function-bind/-/function-bind-1.1.2.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/function-bind-1.1.2/LICENSE",
+        "sha256": "773e131a7684726005a7e4688a80b4620033bc08499bc1404dd1a1eb3bca725e"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "function-timeout",
+    "version": "0.1.1",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/function-timeout/-/function-timeout-0.1.1.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/function-timeout-0.1.1/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "get-intrinsic",
+    "version": "1.3.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/get-intrinsic/-/get-intrinsic-1.3.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/get-intrinsic-1.3.0/LICENSE",
+        "sha256": "39c5ec504cf6bd5cd782a7c695828e09189df79f5d94840e4f08feb97b9fd416"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "get-package-type",
+    "version": "0.1.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/get-package-type/-/get-package-type-0.1.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/get-package-type-0.1.0/LICENSE",
+        "sha256": "24a4cce7958e3905080069a18952f1f35796fcd861b4c5686047f0a33faa21ed"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "get-proto",
+    "version": "1.0.1",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/get-proto/-/get-proto-1.0.1.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/get-proto-1.0.1/LICENSE",
+        "sha256": "be46ce1e3b0479af9ce82d22b465a6d7d2ff084fca0aaf3d54172da2b5eb5781"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "get-stream",
+    "version": "6.0.1",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/get-stream/-/get-stream-6.0.1.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/get-stream-6.0.1/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "gopd",
+    "version": "1.2.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/gopd/-/gopd-1.2.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/gopd-1.2.0/LICENSE",
+        "sha256": "d90bf0a089da4cf43d644ed240a0b3825dcdb705e64e38371d56995a4cc9e4c5"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "got",
+    "version": "13.0.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/got/-/got-13.0.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/got-13.0.0/license",
+        "sha256": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "has-flag",
+    "version": "4.0.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/has-flag/-/has-flag-4.0.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/has-flag-4.0.0/license",
+        "sha256": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "has-symbols",
+    "version": "1.1.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/has-symbols/-/has-symbols-1.1.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/has-symbols-1.1.0/LICENSE",
+        "sha256": "206c1adcf206dc0031b11232f5b054ec5f1662407ab1ca415247921cab2068ab"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "has-tostringtag",
+    "version": "1.0.2",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/has-tostringtag/-/has-tostringtag-1.0.2.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/has-tostringtag-1.0.2/LICENSE",
+        "sha256": "e2560e002e13281578c75c850061d9255c33d16d732939e8c2db64c2506642fa"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "hasown",
+    "version": "2.0.2",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/hasown/-/hasown-2.0.2.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/hasown-2.0.2/LICENSE",
+        "sha256": "bf9b0d665be2a689851eea667ca9f42066ea1d903b38349c51e6a44b2577680a"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "http-cache-semantics",
+    "version": "4.2.0",
+    "declaredLicense": "BSD-2-Clause",
+    "source": "https://registry.npmjs.org/http-cache-semantics/-/http-cache-semantics-4.2.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/http-cache-semantics-4.2.0/LICENSE",
+        "sha256": "ab868ad5a2ef5068560d9cd3b2180ec63c140bb4c5cae1ba779d300a0ac74fa3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "http2-wrapper",
+    "version": "2.2.1",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/http2-wrapper/-/http2-wrapper-2.2.1.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/http2-wrapper-2.2.1/LICENSE",
+        "sha256": "0194571d45a06ea2a22ceb51f981e3be92525966d28847dbc0d9982603bf90de"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "https-proxy-agent",
+    "version": "5.0.1",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/https-proxy-agent/-/https-proxy-agent-5.0.1.tgz",
+    "texts": [],
+    "missingText": true
+  },
+  {
+    "kind": "npm-qa",
+    "name": "iconv-lite",
+    "version": "0.7.3",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/iconv-lite/-/iconv-lite-0.7.3.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/iconv-lite-0.7.3/LICENSE",
+        "sha256": "ac779f7314c74f232ef847ea86e714abe25cf6eeb5cc97b69451b74e2af6492d"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "indent-string",
+    "version": "4.0.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/indent-string/-/indent-string-4.0.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/indent-string-4.0.0/license",
+        "sha256": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "ip-regex",
+    "version": "5.0.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/ip-regex/-/ip-regex-5.0.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/ip-regex-5.0.0/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "is-docker",
+    "version": "3.0.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/is-docker/-/is-docker-3.0.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/is-docker-3.0.0/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "is-fullwidth-code-point",
+    "version": "3.0.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/is-fullwidth-code-point/-/is-fullwidth-code-point-3.0.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/is-fullwidth-code-point-3.0.0/license",
+        "sha256": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "is-inside-container",
+    "version": "1.0.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/is-inside-container/-/is-inside-container-1.0.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/is-inside-container-1.0.0/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "is-ip",
+    "version": "5.0.1",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/is-ip/-/is-ip-5.0.1.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/is-ip-5.0.1/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "is-regexp",
+    "version": "3.1.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/is-regexp/-/is-regexp-3.1.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/is-regexp-3.1.0/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "is-wsl",
+    "version": "3.1.1",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/is-wsl/-/is-wsl-3.1.1.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/is-wsl-3.1.1/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "jake",
+    "version": "10.9.4",
+    "declaredLicense": "Apache-2.0",
+    "source": "https://registry.npmjs.org/jake/-/jake-10.9.4.tgz",
+    "texts": [],
+    "missingText": true
+  },
+  {
+    "kind": "npm-qa",
+    "name": "json-buffer",
+    "version": "3.0.1",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/json-buffer/-/json-buffer-3.0.1.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/json-buffer-3.0.1/LICENSE",
+        "sha256": "715f1f0f2eb7688e53e4e958acdc7fc9e365ae3eaf26efc2604b93cc65fdc3f5"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "keyv",
+    "version": "4.5.4",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/keyv/-/keyv-4.5.4.tgz",
+    "texts": [],
+    "missingText": true
+  },
+  {
+    "kind": "npm-qa",
+    "name": "lilconfig",
+    "version": "3.1.3",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/lilconfig/-/lilconfig-3.1.3.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/lilconfig-3.1.3/LICENSE",
+        "sha256": "d70f9e316930b4333b6f51af5f0d0cb7ded6a4a2641549aa088027aaff91e950"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "lowercase-keys",
+    "version": "3.0.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/lowercase-keys/-/lowercase-keys-3.0.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/lowercase-keys-3.0.0/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "math-intrinsics",
+    "version": "1.1.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/math-intrinsics/-/math-intrinsics-1.1.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/math-intrinsics-1.1.0/LICENSE",
+        "sha256": "2b770a704c15de238c3f622b01b0044ddd60b49ee30608ea6991ebf19db7a7a1"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "mime-db",
+    "version": "1.52.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/mime-db/-/mime-db-1.52.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/mime-db-1.52.0/LICENSE",
+        "sha256": "cc1dfd4dafa27271e8212cd3b274eeb3f262e40a6fdab36ddc3f9696f706f58b"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "mime-types",
+    "version": "2.1.35",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/mime-types/-/mime-types-2.1.35.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/mime-types-2.1.35/LICENSE",
+        "sha256": "71f83c4c0621102a56d9853812777b85751bce7e9726f686f5b056c1f8a4b0e6"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "mimic-response",
+    "version": "4.0.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/mimic-response/-/mimic-response-4.0.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/mimic-response-4.0.0/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "ms",
+    "version": "2.1.3",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/ms/-/ms-2.1.3.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/ms-2.1.3/license.md",
+        "sha256": "1662fae9b5314d11cf51284e2dcd1f006a354f7343f08712a730fcff9a359801"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "mute-stream",
+    "version": "2.0.0",
+    "declaredLicense": "ISC",
+    "source": "https://registry.npmjs.org/mute-stream/-/mute-stream-2.0.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/mute-stream-2.0.0/LICENSE",
+        "sha256": "4ec3d4c66cd87f5c8d8ad911b10f99bf27cb00cdfcff82621956e379186b016b"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "normalize-url",
+    "version": "8.0.2",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/normalize-url/-/normalize-url-8.0.2.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/normalize-url-8.0.2/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "p-cancelable",
+    "version": "3.0.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/p-cancelable/-/p-cancelable-3.0.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/p-cancelable-3.0.0/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "picocolors",
+    "version": "1.1.1",
+    "declaredLicense": "ISC",
+    "source": "https://registry.npmjs.org/picocolors/-/picocolors-1.1.1.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/picocolors-1.1.1/LICENSE",
+        "sha256": "6582629e2979466878f6014313dcc2f3756c9616148682227ce3063dde310750"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "powershell-utils",
+    "version": "0.1.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/powershell-utils/-/powershell-utils-0.1.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/powershell-utils-0.1.0/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "proxy-from-env",
+    "version": "2.1.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/proxy-from-env/-/proxy-from-env-2.1.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/proxy-from-env-2.1.0/LICENSE",
+        "sha256": "f55828df4b8752c48e765a806465b76a103e3cb363379c569b15a1df2ba2d79e"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "public-ip",
+    "version": "7.0.1",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/public-ip/-/public-ip-7.0.1.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/public-ip-7.0.1/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "quick-lru",
+    "version": "5.1.1",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/quick-lru/-/quick-lru-5.1.1.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/quick-lru-5.1.1/license",
+        "sha256": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "react",
+    "version": "19.0.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/react/-/react-19.0.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/react-19.0.0/LICENSE",
+        "sha256": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "resolve-alpn",
+    "version": "1.2.1",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/resolve-alpn/-/resolve-alpn-1.2.1.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/resolve-alpn-1.2.1/LICENSE",
+        "sha256": "03b347a3d13b0e5bdb8fc5edeed0286b1be51441c6490a90710692d227136e0d"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "responselike",
+    "version": "3.0.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/responselike/-/responselike-3.0.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/responselike-3.0.0/license",
+        "sha256": "a368f64e3edd0af447556fc119ea6e8171795e3dd50ff50dc03e824be363e837"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "safer-buffer",
+    "version": "2.1.2",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/safer-buffer/-/safer-buffer-2.1.2.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/safer-buffer-2.1.2/LICENSE",
+        "sha256": "4bc935e71be198c67ddf3c2b5fddb195f6edc182bfc155a96a6db61b44b494b9"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "semver",
+    "version": "7.8.5",
+    "declaredLicense": "ISC",
+    "source": "https://registry.npmjs.org/semver/-/semver-7.8.5.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/semver-7.8.5/LICENSE",
+        "sha256": "4ec3d4c66cd87f5c8d8ad911b10f99bf27cb00cdfcff82621956e379186b016b"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "signal-exit",
+    "version": "4.1.0",
+    "declaredLicense": "ISC",
+    "source": "https://registry.npmjs.org/signal-exit/-/signal-exit-4.1.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/signal-exit-4.1.0/LICENSE.txt",
+        "sha256": "b173e19b9a78df305577ace0e52ef45a4bcc915ea28b47b256dc3b68dcb1f7e7"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "string-width",
+    "version": "4.2.3",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/string-width/-/string-width-4.2.3.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/string-width-4.2.3/license",
+        "sha256": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "strip-ansi",
+    "version": "6.0.1",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/strip-ansi/-/strip-ansi-6.0.1.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/strip-ansi-6.0.1/license",
+        "sha256": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "super-regex",
+    "version": "0.2.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/super-regex/-/super-regex-0.2.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/super-regex-0.2.0/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "supports-color",
+    "version": "8.1.1",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/supports-color/-/supports-color-8.1.1.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/supports-color-8.1.1/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "time-span",
+    "version": "5.1.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/time-span/-/time-span-5.1.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/time-span-5.1.0/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "tinyglobby",
+    "version": "0.2.17",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/tinyglobby/-/tinyglobby-0.2.17.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/tinyglobby-0.2.17/LICENSE",
+        "sha256": "22c68811e174cbbfb3813d4135918df4f540959c14d872e601d9abe83d3cde8f"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "picomatch",
+    "version": "4.0.7",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/picomatch/-/picomatch-4.0.7.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/picomatch-4.0.7/LICENSE",
+        "sha256": "d0cd141b0c322fded5dfad1d4645bb2fedfc05b7321fe1009469638190d59ef9"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "tsx",
+    "version": "4.23.13",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/tsx/-/tsx-4.23.13.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/tsx-4.23.13/LICENSE",
+        "sha256": "8dded67841a9261a622c739fb61c81785e93765de852828ceeb9403d20a74581"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "@esbuild/darwin-arm64",
+    "version": "0.28.2",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/@esbuild/darwin-arm64/-/darwin-arm64-0.28.2.tgz",
+    "texts": [],
+    "missingText": true
+  },
+  {
+    "kind": "npm-qa",
+    "name": "esbuild",
+    "version": "0.28.2",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/esbuild/-/esbuild-0.28.2.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/esbuild-0.28.2/LICENSE.md",
+        "sha256": "b40ec5baec7bb34fa5b1c09521fa3cd52d5fad7adafed74932a2010d3612a681"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "type-fest",
+    "version": "0.21.3",
+    "declaredLicense": "(MIT OR CC0-1.0)",
+    "source": "https://registry.npmjs.org/type-fest/-/type-fest-0.21.3.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/type-fest-0.21.3/license",
+        "sha256": "64a93ffc0a06a2266dbb57ed7ebe3b56ba66ab337b6347fabdbf86c76819fbae"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "typescript",
+    "version": "5.9.3",
+    "declaredLicense": "Apache-2.0",
+    "source": "https://registry.npmjs.org/typescript/-/typescript-5.9.3.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/typescript-5.9.3/LICENSE.txt",
+        "sha256": "a7d00bfd54525bc694b6e32f64c7ebcf5e6b7ae3657be5cc12767bce74654a47"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "undici-types",
+    "version": "7.8.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/undici-types/-/undici-types-7.8.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/undici-types-7.8.0/LICENSE",
+        "sha256": "a6db8096b2707bc0102d256917d4d33f298ba36d8c3f25de067a2b5bb379db27"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "widest-line",
+    "version": "3.1.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/widest-line/-/widest-line-3.1.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/widest-line-3.1.0/license",
+        "sha256": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "wordwrap",
+    "version": "1.0.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/wordwrap/-/wordwrap-1.0.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/wordwrap-1.0.0/LICENSE",
+        "sha256": "435a6722c786b0a56fbe7387028f1d9d3f3a2d0fb615bb8fee118727c3f59b7b"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "wrap-ansi",
+    "version": "7.0.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/wrap-ansi/-/wrap-ansi-7.0.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/wrap-ansi-7.0.0/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "wsl-utils",
+    "version": "0.4.0",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/wsl-utils/-/wsl-utils-0.4.0.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/wsl-utils-0.4.0/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "npm-qa",
+    "name": "yoctocolors-cjs",
+    "version": "2.1.3",
+    "declaredLicense": "MIT",
+    "source": "https://registry.npmjs.org/yoctocolors-cjs/-/yoctocolors-cjs-2.1.3.tgz",
+    "texts": [
+      {
+        "path": "docs/notices/npm-qa/yoctocolors-cjs-2.1.3/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "python-qa",
+    "name": "jsonschema_specifications-2025.9.1",
+    "version": "qa",
+    "declaredLicense": "See package metadata",
+    "source": "PyPI fixture tooling",
+    "texts": [],
+    "missingText": true
+  },
+  {
+    "kind": "python-qa",
+    "name": "jsonschema_specifications-2025.9.1",
+    "version": "qa",
+    "declaredLicense": "See package metadata",
+    "source": "PyPI fixture tooling",
+    "texts": [
+      {
+        "path": "docs/notices/python-qa/jsonschema_specifications-2025.9.1-qa/COPYING",
+        "sha256": "42dcd63495f87b4eb7c7757afa379bb55a53f94afd7a5f657d9adf57236e515c"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "python-qa",
+    "name": "rpds_py-0.27.1",
+    "version": "qa",
+    "declaredLicense": "See package metadata",
+    "source": "PyPI fixture tooling",
+    "texts": [],
+    "missingText": true
+  },
+  {
+    "kind": "python-qa",
+    "name": "rpds_py-0.27.1",
+    "version": "qa",
+    "declaredLicense": "See package metadata",
+    "source": "PyPI fixture tooling",
+    "texts": [
+      {
+        "path": "docs/notices/python-qa/rpds_py-0.27.1-qa/LICENSE",
+        "sha256": "314e4e91be3baa93c0fb4bccc9e4e97cd643eb839b065af921782c2175fe9909"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "python-qa",
+    "name": "jsonschema-4.23.0",
+    "version": "qa",
+    "declaredLicense": "See package metadata",
+    "source": "PyPI fixture tooling",
+    "texts": [],
+    "missingText": true
+  },
+  {
+    "kind": "python-qa",
+    "name": "jsonschema-4.23.0",
+    "version": "qa",
+    "declaredLicense": "See package metadata",
+    "source": "PyPI fixture tooling",
+    "texts": [
+      {
+        "path": "docs/notices/python-qa/jsonschema-4.23.0-qa/COPYING",
+        "sha256": "4f92a015a13c4d1a040bef018aa13430b4f1bc73b41b16bb846c346766de7439"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "python-qa",
+    "name": "referencing-0.36.2",
+    "version": "qa",
+    "declaredLicense": "See package metadata",
+    "source": "PyPI fixture tooling",
+    "texts": [],
+    "missingText": true
+  },
+  {
+    "kind": "python-qa",
+    "name": "referencing-0.36.2",
+    "version": "qa",
+    "declaredLicense": "See package metadata",
+    "source": "PyPI fixture tooling",
+    "texts": [
+      {
+        "path": "docs/notices/python-qa/referencing-0.36.2-qa/COPYING",
+        "sha256": "42dcd63495f87b4eb7c7757afa379bb55a53f94afd7a5f657d9adf57236e515c"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "python-qa",
+    "name": "pip-21.2.4",
+    "version": "qa",
+    "declaredLicense": "See package metadata",
+    "source": "PyPI fixture tooling",
+    "texts": [
+      {
+        "path": "docs/notices/python-qa/pip-21.2.4-qa/LICENSE.txt",
+        "sha256": "23a7361c2b1581028bc623b9da2bd24997abcaa4781ace6ad444a37944f8dae1"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "python-qa",
+    "name": "attrs-26.1.0",
+    "version": "qa",
+    "declaredLicense": "See package metadata",
+    "source": "PyPI fixture tooling",
+    "texts": [],
+    "missingText": true
+  },
+  {
+    "kind": "python-qa",
+    "name": "attrs-26.1.0",
+    "version": "qa",
+    "declaredLicense": "See package metadata",
+    "source": "PyPI fixture tooling",
+    "texts": [
+      {
+        "path": "docs/notices/python-qa/attrs-26.1.0-qa/LICENSE",
+        "sha256": "882115c95dfc2af1eeb6714f8ec6d5cbcabf667caff8729f42420da63f714e9f"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "python-qa",
+    "name": "rfc3987-1.3.8",
+    "version": "qa",
+    "declaredLicense": "See package metadata",
+    "source": "PyPI fixture tooling",
+    "texts": [],
+    "missingText": true
+  },
+  {
+    "kind": "python-qa",
+    "name": "typing_extensions-4.16.0",
+    "version": "qa",
+    "declaredLicense": "See package metadata",
+    "source": "PyPI fixture tooling",
+    "texts": [],
+    "missingText": true
+  },
+  {
+    "kind": "python-qa",
+    "name": "typing_extensions-4.16.0",
+    "version": "qa",
+    "declaredLicense": "See package metadata",
+    "source": "PyPI fixture tooling",
+    "texts": [
+      {
+        "path": "docs/notices/python-qa/typing_extensions-4.16.0-qa/LICENSE",
+        "sha256": "3b2f81fe21d181c499c59a256c8e1968455d6689d269aa85373bfb6af41da3bf"
+      }
+    ],
+    "missingText": false
+  },
+  {
+    "kind": "python-qa",
+    "name": "setuptools-58.0.4",
+    "version": "qa",
+    "declaredLicense": "See package metadata",
+    "source": "PyPI fixture tooling",
+    "texts": [
+      {
+        "path": "docs/notices/python-qa/setuptools-58.0.4-qa/LICENSE",
+        "sha256": "db3f0246b1f9278f15845b99fec478b8b506eb76487993722f8c6e254285faf8"
+      }
+    ],
+    "missingText": false
+  }
+]

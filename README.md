@@ -18,3 +18,5 @@ Want to check the time around the world or find the time by IP address? Try **Wo
 
 <a id="install-extension-button" title="Install World Clock Raycast Extension" href="https://www.raycast.com/koinzhang/world-clock#install">
 <img height="64" style="height: 64px" src="https://assets.raycast.com/koinzhang/world-clock/install_button@2x.png"></a>
+
+Standalone Rust V2 development implementation and review notes: [v2/README.md](v2/README.md).
